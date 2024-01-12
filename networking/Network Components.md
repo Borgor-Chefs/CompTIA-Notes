@@ -1,3 +1,5 @@
+Tags: [#networking]
+
 # Network Components
 
 These are typical hardware components you'll see in the field.

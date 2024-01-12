@@ -1,3 +1,5 @@
+Tags: [#networking]
+
 # Internet Protocol Address
 
 This is a numeric identifer for computers that want to connect to a network, this is required for a device to communicate on a network.
