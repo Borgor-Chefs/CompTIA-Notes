@@ -6,4 +6,4 @@ These are a very common medium for data storage and they are similar to a [[SSD|
 
 These devices are small and can fit on a keychain.
 
-They also sport a Universal Storage Bus (USB) interface.
+They also sport a [[IO Interfaces#^1d9a68|USB]] interface.
