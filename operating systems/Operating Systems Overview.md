@@ -151,4 +151,5 @@ The support of this software and or hardware is dependent on the vendor that sup
 
 One thing to note is the application compatibility and the operating system compatibility. If your workplace uses macOS for example but the piece of software or hardware you need only runs on Windows or has a driver only for Windows, then you're kind of out of luck.
 
->Webapps should be immune to this rule since they (should) only rely on the browser.
+>Webapps should be immune to this rule since they (should) only rely on the browser and not the hardware.
+>E.g., it should not matter if an Apple, Windows or Linux computer accesses a Shaw or Broadcom router from their browser.
