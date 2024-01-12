@@ -1,4 +1,4 @@
-Tags: [#expansion_card]
+Tags: [#expansion_card #networking]
 
 # The Network Card (NIC)
 
