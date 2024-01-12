@@ -1,6 +1,10 @@
-# About
+Tags: [#storage]
+
+# About Storage
 
 This folder is dedicated to all types of storage which a computer can have.
+
+To read about data redundancy or RAID, see [[RAID|here]].
 
 To see things about flash memory like SD cards, see [[SD Card|here]].
 
