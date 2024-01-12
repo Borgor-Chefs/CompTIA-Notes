@@ -1,1 +1,0 @@
-# The Central Processing Unit (CPU)
