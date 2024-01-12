@@ -1,5 +1,5 @@
 Tags: [#networking #application_layer]
-[[Ports|Standard port]]: HTTP is 80, HTTPS is 443.
+[[Networking Ports|Standard port]]: HTTP is 80, HTTPS is 443.
 [Link](https://en.wikipedia.org/wiki/HTTP).
 
 # HTTP (Hypertext Transfer Protocol)

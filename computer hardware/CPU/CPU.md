@@ -1,10 +1,12 @@
-Tags: [#cpu]
-
+---
+tags:
+  - cpu
+---
 # The Central Processing Unit (CPU)
 
 ![[Pasted image 20220826153959.png]]
 
-This is the module which performs computational tasks such as addition, subtraction, multiplication, moving data from register to register, controlling [[RAM|memory]] and other important tasks.
+This is the module which performs computational tasks such as addition, subtraction, multiplication, moving data from register to register, controlling [[RAM Types|memory]] and other important tasks.
 
 The CPU is the largest component on the [[The Motherboard|motherboard]], typically after the CPU is inserted into a [[#^062ecf|socket]] it is covered by a [[Heat Sink|heat sink]] and a [[Fans|fan]] or has a [[Water Cooling|water cooling]] component.
 
@@ -15,7 +17,7 @@ CPUs come in 32-bit (old) and 64-bit (standard) versions, the main difference be
 - 32-bit can address $2^{32}$ bytes of information, equivalent to 4 gigabytes (GB).
 - 64-bit can address $2^{64}$ bytes of information, equivalent to 16 exabytes (EB).
 	- This is about 4 billion times more than a 32-bit processor.
-	- This number is so huge that it is virtually infinite since (in 2022) we will never need to use that much [[RAM|memory]].
+	- This number is so huge that it is virtually infinite since (in 2022) we will never need to use that much [[RAM Types|memory]].
 
 ## Manufacturers
 
@@ -84,7 +86,7 @@ CPUs which have multiple cores are called "multi-core" processors, for example..
 
 ![[Pasted image 20220826160131.png]]
 
-This is the CPU's internal memory. Caches are up of very fast [[RAM#SRAM (Static RAM)|SRAM]].
+This is the CPU's internal memory. Caches are up of very fast [[RAM Types#SRAM (Static RAM)|SRAM]].
 
 The cache's purpose is to hold data and instructions waiting to be used by the processor, it will prioritize data and instructions that are very frequently used by the CPU to improve the overall speed of the CPU.
 

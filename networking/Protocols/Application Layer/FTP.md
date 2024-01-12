@@ -1,5 +1,5 @@
 Tags: [#networking #application_layer]
-[[Ports|Standard port]]: 20/21
+[[Networking Ports|Standard port]]: 20/21
 [Link](https://en.wikipedia.org/wiki/File_Transfer_Protocol).
 
 # FTP (File Transfer Protocol)

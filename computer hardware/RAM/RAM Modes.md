@@ -1,8 +1,10 @@
-Tags: [#ram]
-
+---
+tags:
+  - ram
+---
 # Types of RAM Modes
 
-There are "modes" to how the [[The Motherboard|motherboard]] can communicate with [[RAM|RAM]] sticks. They are...
+There are "modes" to how the [[The Motherboard|motherboard]] can communicate with [[RAM Types|RAM Types]] sticks. They are...
 
 - Single Channel
 - [[#Dual Channel Mode|Dual Channel]]

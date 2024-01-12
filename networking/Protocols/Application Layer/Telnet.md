@@ -1,5 +1,5 @@
 Tags: [#networking #application_layer]
-[[Ports|Standard port]]: 23/2323
+[[Networking Ports|Standard port]]: 23/2323
 [Link](https://en.wikipedia.org/wiki/Telnet).
 
 # Telnet

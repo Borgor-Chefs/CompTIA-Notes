@@ -1,5 +1,5 @@
 Tags: [#networking #application_layer]
-[[Ports|Standard port]]: SMB & CIFS 445
+[[Networking Ports|Standard port]]: SMB & CIFS 445
 [Link](https://en.wikipedia.org/wiki/Server_Message_Block).
 
 # SMB (Server Message Block)

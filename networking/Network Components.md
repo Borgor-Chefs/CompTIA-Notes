@@ -1,5 +1,7 @@
-Tags: [#networking]
-
+---
+tags:
+  - networking
+---
 # Network Components
 
 These are typical hardware components you'll see in the field.
@@ -12,7 +14,7 @@ These are typical hardware components you'll see in the field.
 - [[#Bridges|bridge]]
 	- [[#Filtering Bridge|a filtering bridge]]
 - [[#Routers|router]]
-- [[#Network Interface Card (NIC)|network interface card]]
+- [[Network Interface Card|network interface card]]
 - [[#Wireless Access Point (WAP)|wireless access point]]
 - [[#Patch Panels|patch panel]]
 
@@ -88,16 +90,6 @@ This piece of hardware routes packets from one network to another based on the s
 If the router determines that the data packet is meant for its network then it will receive it and pass it along to the proper device, if not it will send the packet off to another network. This is essentially the gateway for the network.
 
 In the above example, the router will only accept data packets colored red since this is traffic meant for this network. If not, the router will pass the data along to other networks. Keep in mind, this is a very simplified example.
-
-### Network Interface Card (NIC)
-
-![[Pasted image 20230322200419.png]]
-
-The job of this card is to provide network connectivity between the device that has the NIC and the rest of the network. The card itself converts serial data into parallel data which can be read and processed by the computer.
-
-Each NIC has its own MAC address which serves as a unique identifier to the network.
-
->Read more about NICs [[Network Interface Card|here]].
 
 ### Wireless Access Point (WAP)
 

@@ -26,7 +26,7 @@ In the "Allowed Apps" section of this applet, you can configure which applicatio
 In the "Advanced Options" section, you can create new rules with the following properties:
 
 - rule type
-	- one of: program, [[Ports|port]], a predefined rule or a new custom rule
+	- one of: program, [[Networking Ports|port]], a predefined rule or a new custom rule
 - protocols and ports
 	- either [[TCP|TCP]] or [[UDP|UDP]] along
 	- all ports or a list of ports

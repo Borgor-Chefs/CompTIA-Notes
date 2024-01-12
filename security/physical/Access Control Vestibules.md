@@ -26,9 +26,10 @@ You would have one or more of the following for authentication:
     - [[RFID|RFID]]
     - magnetic swipe (think credit card swipe)
 - pin machines with a keyboard
-- fingerprint reader
-- retinal scan
-- human security
+- biometric security
+    - fingerprint reader
+    - retinal scan
+- human security (security guards)
 
 There can be a combination of the above, say a pin machine & keycard reader built into one where:
 

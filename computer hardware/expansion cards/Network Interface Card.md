@@ -1,10 +1,16 @@
-Tags: [#expansion_card #networking]
-
+---
+tags:
+  - expansion_card
+  - networking
+  - interface
+---
 # The Network Card (NIC)
 
-This is used to connect a computer to a network via. an ethernet cable (typically [[Cables and Connectors#^459cd4|RJ-45]]).
+This is used to connect a computer to a network via. an ethernet cable (typically [[Digital Cables#Register Jack 45 (RJ-45) (Ethernet Cable)|RJ-45]]).
 
-It is basically a circuit board with a network adaptor attached to your computer. It's job is to convert serial data to parallel data.
+![[Pasted image 20230322200419.png]]
+
+The job of this card is to provide network connectivity between the device that has the NIC and the rest of the network. The card itself converts serial data into parallel data which can be read and processed by the computer.
 
 A NIC provides the computer a constant, dedicated connection to a network. Each NIC has a unique identifier called a MAC address.
 

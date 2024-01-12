@@ -2,7 +2,7 @@
 
 BIOS stands for "Basic Input/Output System" and it is the first thing to run on a computer when it starts up. The BIOS is software that is built into the [[The Motherboard|motherboard]] that initializes the computer's peripherals.
 
-After the BIOS initializes the computer's peripherals and does a [[#^c17715|POST]], it will then searches for a boot device. The boot device is typically stores on a [[HDD|hard drive]]. The boot device can either be software or an operating system.
+After the BIOS initializes the computer's peripherals and does a [[#Power On Self Test (POST)|POST]], it will then searches for a boot device. The boot device is typically stores on a [[HDD|hard drive]]. The boot device can either be software or an operating system.
 
 The BIOS is stored within a chip on the [[The Motherboard|motherboard]] and is powered (to retain data) by the CMOS battery.
 
@@ -11,10 +11,10 @@ Using the BIOS you can change things such as;
 - the date and time
 - virtualization
 - integrated peripherals such as
-	- [[IO Interfaces#^af1c39|sound]]
-	- [[IO Interfaces#^519428|network]]
-	- the USB controller
-	- [[IO Interfaces#^ce8d37|video]]
+	- [[Sound Port|sound]]
+	- [[Ethernet Port|network]]
+	- [[USB|the USB controller]]
+	- [[Video Port|video]]
 - [[CPU|CPU]]
 	- clock speed
 	- voltage
@@ -31,15 +31,11 @@ UEFI can utilize the mouse as well as opposed to the BIOS' keyboard only. Anothe
 
 ## Boot Priority
 
-^480c62
-
-When you turn on a computer, the computer does a power on self test ([[#^c17715|POST]]). This ensure that all the vital components are working, after this test the BIOS will then search for something to boot from (usually an operating system).
+When you turn on a computer, the computer does a power on self test ([[#Power On Self Test (POST)|POST]]). This ensure that all the vital components are working, after this test the BIOS will then search for something to boot from (usually an operating system).
 
 You can also boot from a [[The Thumb Drive|USB]], [[CD-ROM|CD]] or even a [[The Floppy Drive|floppy disk]] as long as they have the proper boot files on them. These boot devices are stored in a list in the BIOS and the BIOS will check each one for something to boot from. The previously mentioned list and be changed.
 
 ## Power On Self Test (POST)
-
-^c17715
 
 To know if the POST worked, the computer will produce a short beeping noise to audibly let the user know that it is running properly. You will also know if the computer boots up into the operating system you're expecting.
 
@@ -55,13 +51,13 @@ For example if there are three long beeps, this could mean that something is wro
 	- some of these devices include
 		- keyboard
 		- mouse
-		- [[Video Card|video card]]
+		- [[Graphics Card|video card]]
 		- [[CD-ROM|optical drives]]
 - The BIOS points out to the PC the files which are needed in order to boot up the operating system
 
 ## Properties
 
-- The BIOS is stored in nonvolatile [[RAM|RAM]] (NVRAM)
+- The BIOS is stored in [[RAM Types#Non-Volatile RAM (NVRAM)|nonvolatile RAM (NVRAM)]]
 - It is designed and coded for a specific [[The Motherboard|motherboard]]
 - BIOS updates can add functionality to a system that wasn't originally present
 

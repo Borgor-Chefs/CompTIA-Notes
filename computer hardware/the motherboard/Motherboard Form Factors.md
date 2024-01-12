@@ -42,9 +42,9 @@ BTX is meant to be the successor to the ATX motherboard and was designed by Inte
 
 This motherboard takes advantage of newer technologies such as:
 
-- [[IO Interfaces#^1d9a68|USB 2.0]]
-- [[Bus Slots#^93c132|PCIe]]
-- [[HDD#^20a48d|SATA]]
+- [[USB#Speeds|USB 2.0]]
+- [[PCIe|PCIe]]
+- [[HDD#Serial ATA (SATA)|SATA]]
 
 ## ITX
 
@@ -71,4 +71,3 @@ There are four models of ITX;
 ^2f86d3
 
 Created Intel, designed for low-end / low profile computers. Utilizes a riser card which has slots to plug in extra components in parallel. Typically found in slim line computer cases.
-

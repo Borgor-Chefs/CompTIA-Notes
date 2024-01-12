@@ -1,5 +1,8 @@
-Tags: [#expansion_card]
-
+---
+tags:
+  - expansion_card
+  - interface
+---
 # The Sound Card
 
 This expansion card is meant to give the computer the ability to input and output sound to some speaker assembly.

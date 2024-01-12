@@ -1,5 +1,8 @@
-Tags: [#expansion_card #storage]
-
+---
+tags:
+  - storage
+  - expansion_card
+---
 # The RAID Card
 
 This card is meant to implement a hardware [[RAID|RAID]] array for data redundancy.

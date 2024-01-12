@@ -6,7 +6,7 @@ These are protocols related to mail.
 
 ## SMTP (Simple Mail Transfer Protocol)
 
->[[Ports|Standard port]]: 25
+>[[Networking Ports|Standard port]]: 25
 >[Link](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol).
 
 ![[Pasted image 20230331195951.png]]
@@ -15,7 +15,7 @@ This protocol uses [[TCP|TCP]] to send transfer mail over the internet. It uses 
 
 ## POP3 (Post Office Protocol Ver. 3)
 
->[[Ports|Standard port]]: 110
+>[[Networking Ports|Standard port]]: 110
 >[Link](https://en.wikipedia.org/wiki/Post_Office_Protocol).
 
 ![[Pasted image 20230331200510.png]]
@@ -26,7 +26,7 @@ This protocol, unlike IMAP4, doesn't sync the emails between your machine and th
 
 ## IMAP (Internet Mail Access Protocol Ver. 4)
 
->[[Ports|Standard port]]: 143
+>[[Networking Ports|Standard port]]: 143
 >[Link](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol).
 
 ![[Pasted image 20230331200651.png]]

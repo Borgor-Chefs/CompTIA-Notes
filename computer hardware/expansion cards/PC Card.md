@@ -1,5 +1,8 @@
-Tags: [#expansion_card]
-
+---
+tags:
+  - expansion_card
+  - laptops
+---
 # The PC Card
 
 This type of expansion card is exclusively for laptops. It is also referred to as a PCMCIA (Personal Computer Memory Card Internation Association) card.

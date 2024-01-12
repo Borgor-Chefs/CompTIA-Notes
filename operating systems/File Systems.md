@@ -67,4 +67,4 @@ This is a way of creating or rewriting the file system, this can be good or bad 
 
 >A handy command to do this on [[Operating Systems Overview#Linux|Linux]] is:
 >`dd -if /dev/zero -of /dev/[hard drive]`
->Here, you are echoing zeros into the targeted [[certifications/comptia a+/hardware/storage/About|hard drive]].
+>Here, you are echoing zeros into the targeted [[comptia a+/computer hardware/storage devices/hard drives/About|hard drive]].
