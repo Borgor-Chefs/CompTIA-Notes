@@ -8,6 +8,7 @@ These are typical hardware components you'll see in the field.
 - [[#Hubs|hub]]
 - [[#Switches|switch]]
 - [[#Bridges|bridge]]
+	- [[#Filtering Bridge|a filtering bridge]]
 - [[#Routers|router]]
 - [[#Network Interface Card (NIC)|network interface card]]
 - [[#Wireless Access Point (WAP)|wireless access point]]
@@ -58,19 +59,27 @@ There are two types:
 
 Unlike [[#Hub|hubs]], switches are intelligent, they memorize the addresses of connected devices and only send data to and from different addresses based on their configuration. The goal of a switch is to reduce the amount of traffic on a network.
 
+Switches operate on level 2 of the OSI model and they filter ethernet packets based on the MAC addresses contained within the packet.
+
 ### Bridges
 
 ![[Pasted image 20230322195501.png]]
 
 "Used to divide networks into separate collision domains."
 
-This is meant to join different networks together and will only allow packets to across if the packet meets the target MAC address of something on the other side of the bridge. The bridge can do this because it keeps a list of all MAC addresses of the connected devices.
+Bridges are used to bridge networks together but they are ordinarily dumb and do not filter packets.
+
+#### Filtering Bridge
+
+Filtering bridges do this exact thing, they filter off of MAC addresses and operate on level 2 of the OSI model. The filtering bridge can do this since they memorize the MAC addresses of all components connected to it. They are also mainly used to filter data within the same network.
+
+This is also an inexpensive way of implementing a router if one isn't available.
 
 ### Routers
 
 ![[Pasted image 20230322195731.png]]
 
-This piece of hardware routes packets from one network to another based on the destination's IP address. When a data packet is received, the router will inspect the packet and determine if the packet was meant for its network or another network.
+This piece of hardware routes packets from one network to another based on the source and destination IP address. When a data packet is received, the router will inspect the packet and determine if the packet was meant for its network or another network.
 
 ![[Pasted image 20230322200039.png]]
 
