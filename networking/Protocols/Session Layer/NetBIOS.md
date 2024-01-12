@@ -1,5 +1,5 @@
 Tags: [#networking #session_layer]
-[[Standard Ports|Standard port]]: 137-139
+[[Ports|Standard port]]: 137-139
 
 # NetBIOS (Network Basic Input/Ouput System)
 

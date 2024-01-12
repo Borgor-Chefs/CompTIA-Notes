@@ -1,5 +1,5 @@
 Tags: [#networking #application_layer]
-[[Standard Ports|Standard port]]: LDAP is 389, LDAPS is 636.
+[[Ports|Standard port]]: LDAP is 389, LDAPS is 636.
 [Link](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol).
 
 # LDAP (Lightweight Directory Access Protocol)

@@ -1,6 +1,12 @@
 Tags: [#networking]
 
-# Standard Ports
+# Ports
+
+These are the bridges that are used to send and receive data from the internet. They are broken down into two types [[TCP|TCP]] and [[UDP|UDP]], these ports are enumerated from 0 to 65535 (`sizeof(short)`).
+
+>A logical connection that is used by programs to exchange information.
+
+## Standard Ports
 
 These are the standard ports that various services run on.
 

@@ -1,5 +1,5 @@
 Tags: [#networking #application_layer]
-[[Standard Ports|Standard port]]: 22
+[[Ports|Standard port]]: 22
 [Link](https://en.wikipedia.org/wiki/Secure_Shell).
 
 # SSH (Secure Shell)

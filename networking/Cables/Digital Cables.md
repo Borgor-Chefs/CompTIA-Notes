@@ -15,8 +15,8 @@ These are cables which transmit digital (1 or 0) data.
 	    - [[#Mini USB|Mini USB]]
 	    - [[#Micro USB|Micro USB]]
 	- [[#Thunderbolt|Thunderbolt]]
-- cable types
-	- the most common cable type [[#Unshielded Twisted-Pair (UTP) Cable|UTP cable]]
+- [[#Twisted Pair Cables|twisted pair cables]]
+	- [[#Unshielded Twisted-Pair (UTP) Cable|UTP cable]]
 	- [[#Shielded Twisted-Pair (STP) Cable|STP cable]]
 
 ## Connectors
@@ -107,7 +107,7 @@ A newer technology released in 2011. This is a high speed interface that outputs
 
 Versions 1 & 2 uses a mini [[IO Interfaces|DisplayPort]] port whilst version 3 (type 3) uses the USB type-C port.
 
-## Cable Types
+## Twisted Pair Cables
 
 ### Unshielded Twisted-Pair (UTP) Cable
 

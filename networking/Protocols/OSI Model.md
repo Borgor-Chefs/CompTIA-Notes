@@ -49,7 +49,7 @@ Here are some things/services/protocols that run on each layer of the model and 
 
 ### Network
 
-- IPv4/6
+- [[IP Address#Internet Protocol Address|IPv4/6]]
 - ICMP
 - IPX
 - AppleTalk
@@ -61,6 +61,7 @@ Here are some things/services/protocols that run on each layer of the model and 
 - MAC
 - PPP
 - HDLC
+- [[Network Types#Virtual LAN (VLAN)|VLAN]]
 
 ### Physical
 

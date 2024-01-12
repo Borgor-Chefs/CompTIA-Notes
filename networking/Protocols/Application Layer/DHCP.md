@@ -1,5 +1,5 @@
 Tags: [#networking #application_layer]
-[[Standard Ports|Standard port]]: 67/68
+[[Ports|Standard port]]: 67/68
 [Link](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol).
 
 # DHCP (Dynamic Host Configuration Protocol)

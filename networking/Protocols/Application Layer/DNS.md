@@ -1,5 +1,5 @@
 Tags: [#networking #application_layer]
-[[Standard Ports|Standard port]]: 53
+[[Ports|Standard port]]: 53
 [Link](https://en.wikipedia.org/wiki/Domain_Name_System).
 
 # DNS (Domain Name System)
