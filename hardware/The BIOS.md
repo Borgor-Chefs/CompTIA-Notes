@@ -15,7 +15,7 @@ Using the BIOS you can change things such as;
 	- [[IO Interfaces#^519428|network]]
 	- the USB controller
 	- [[IO Interfaces#^ce8d37|video]]
-- [[CPU|CPU]]...
+- [[CPU|CPU]]
 	- clock speed
 	- voltage
 

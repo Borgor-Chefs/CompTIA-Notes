@@ -16,6 +16,7 @@ Here are some types:
 - [[#Satellite|Satellite]]
 - [[#Mobile Phones|Mobile Phones]]
 	- [[#Hotspots|Hotspots]]
+- [[#Wireless Internet Service Provider (WISP)|WISP]]
 
 ## Digital Subcriber Line (DSL)
 
@@ -85,3 +86,7 @@ These are devices that use cellular networks to connect wireless devices to the 
 You typically find these built-in to your phone or it will be it's own dedicated device.
 
 Hotspots are available through your carriers.
+
+## Wireless Internet Service Provider (WISP)
+
+I have no idea dawg.

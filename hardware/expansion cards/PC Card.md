@@ -6,7 +6,7 @@ This type of expansion card is exclusively for laptops. It is also referred to a
 
 This provides the laptop with added capabilities such as:
 
-- WIFI Card
+- [[Network Interface Card|WIFI Card]]
 - [[Network Interface Card|Network Card]]
 - Modem Card
 

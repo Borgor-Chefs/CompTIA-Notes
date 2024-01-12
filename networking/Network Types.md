@@ -8,6 +8,7 @@ These are the types of networks that are largely classified by their size and go
 
 Here are the most common types:
 
+- VPN
 - [[#Personal Area Network (PAN)|PAN]]
 - [[#Local Area Network (LAN)|LAN]]
 	- [[#Storage Area Network (SAN)|SAN]]
@@ -15,6 +16,12 @@ Here are the most common types:
 	- [[#Virtual LAN (VLAN)|VLAN]]
 - [[#Metropolitan Area Network (MAN)|MAN]]
 - [[#Wide Area Network (WAN)|WAN]]
+
+## Virtual Private Network (VPN)
+
+This is essentially an encrypted tunnel which sends and receives traffic to and from a server located (usually) in another country which then gets routed to the actual destination.
+
+The goal of a VPN is to have this server (which functions as a relay) to make the connection to the website, resource, etc. for you. This is a method of obscuring your real IP address.
 
 ## Personal Area Network (PAN)
 

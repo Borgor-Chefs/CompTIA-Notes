@@ -84,7 +84,7 @@ CPUs which have multiple cores are called "multi-core" processors, for example..
 
 ![[Pasted image 20220826160131.png]]
 
-This is the CPU's internal memory. Caches are up of very fast [[RAM#^e7da69|SRAM]].
+This is the CPU's internal memory. Caches are up of very fast [[RAM#SRAM (Static RAM)|SRAM]].
 
 The cache's purpose is to hold data and instructions waiting to be used by the processor, it will prioritize data and instructions that are very frequently used by the CPU to improve the overall speed of the CPU.
 
