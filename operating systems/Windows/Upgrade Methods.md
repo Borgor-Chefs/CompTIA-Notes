@@ -1,4 +1,8 @@
-Tags: [#os #windows]
+---
+tags:
+  - os
+  - windows
+---
 
 # Upgrade Methods
 

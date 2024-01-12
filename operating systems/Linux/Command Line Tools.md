@@ -1,4 +1,8 @@
-Tags: [#os #linux]
+---
+tags:
+  - os
+  - linux
+---
 
 # Linux Command Line Tools
 

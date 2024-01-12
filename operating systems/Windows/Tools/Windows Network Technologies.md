@@ -1,4 +1,9 @@
-Tags: [#os #windows #networking]
+---
+tags:
+  - os
+  - windows
+  - networking
+---
 
 # Windows Network Technologies
 

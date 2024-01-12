@@ -1,4 +1,8 @@
-Tags: [#os #windows]
+---
+tags:
+  - os
+  - windows
+---
 Shortcut: `WINDOWS + I`
 
 # Windows Settings

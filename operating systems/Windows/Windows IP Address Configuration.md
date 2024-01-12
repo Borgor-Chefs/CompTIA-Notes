@@ -1,8 +1,14 @@
-Tags: [#os #windows #networking]
+---
+tags:
+  - os
+  - windows
+  - networking
+---
 
 # Windows IP Address Configuration
 
-Normally, when connecting to a network, your computer will attempt to reach a [[DHCP|DHCP]] server to obtain an IP address to be used on the network. However, when a DHCP server isn't available or there's an error of some sort, Windows will fall back to [[IP Addressing Methods#Self-Assigned|APIPA addressing]] wherein Windows will assign itself an IP in the range of 169.254.0.1 to 169.254.255.254 with a subnet mask of 255.255.0.0.
+Normally, when connecting to a network, your computer will attempt to reach a [[DHCP|DHCP]] server to obtain an IP address to be used on the network. However, when a DHCP server isn't available or there's an error of some sort, Windows will fall back to [[IP Addressing MethodsSelf
+  --Assigned|APIPA addressing]] wherein Windows will assign itself an IP in the range of 169.254.0.1 to 169.254.255.254 with a subnet mask of 255.255.0.0.
 
 >Information about this IP address range varies for some reason, not sure why.
 

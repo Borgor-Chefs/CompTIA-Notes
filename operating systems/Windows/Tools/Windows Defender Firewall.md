@@ -1,10 +1,16 @@
-Tags: [#os #windows #networking]
+---
+tags:
+  - os
+  - windows
+  - networking
+---
 
 # Windows Defender Firewall
 
 This is the built-in firewall for Windows and comes shipped with every single [[Windows Editions|edition]]. You can disable this firewall manually by opening [[Control Panel|control panel]] and clicking the "Windows Defender Firewall" applet.
 
-Just like [[Windows Network Technologies#Network Privacy|network profiles]], Windows Defender has a public and private option for networks where you can automatically enable/disable the firewall when connected to a public or private network.
+Just like [[Windows Network TechnologiesNetwork
+  - Privacy|network profiles]], Windows Defender has a public and private option for networks where you can automatically enable/disable the firewall when connected to a public or private network.
 
 >Disabling Windows Defender Firewall requires elevated permissions.
 

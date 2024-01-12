@@ -1,10 +1,15 @@
-Tags: [#networking]
+---
+tags:
+  - networking
+---
 
 # Internet Protocol Address
 
 This is a numeric identifer for computers that want to connect to a network, this is required for a device to communicate on a network.
 
-There are two versions of IP addresses: [[#IPv4|IPv4]] and [[#IPv6|IPv6]].
+There are two versions of IP addresses: [[IPv4
+  -|IPv4]] and [[IPv6
+  -|IPv6]].
 
 ## Versions
 

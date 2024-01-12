@@ -1,4 +1,9 @@
-Tags: [#os #windows #utility]
+---
+tags:
+  - os
+  - windows
+  - utility
+---
 Program Name: `gpedit.msc` (local machine)
 Program Name: `gpmc.msc` (company setting)
 

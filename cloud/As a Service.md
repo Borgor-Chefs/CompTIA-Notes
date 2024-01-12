@@ -1,4 +1,7 @@
-Tags: [#cloud]
+---
+tags:
+  - cloud
+---
 
 # As a Service
 

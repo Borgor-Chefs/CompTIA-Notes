@@ -1,4 +1,7 @@
-Tags: [#networking]
+---
+tags:
+  - networking
+---
 
 # Wireless Security Protocols
 

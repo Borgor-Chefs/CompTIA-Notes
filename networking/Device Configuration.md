@@ -1,10 +1,14 @@
-Tags: [#networking]
+---
+tags:
+  - networking
+---
 
 # Device Configuration
 
 ## SOHO Routers
 
-SOHO stands for "Small Office / Home Office" [[Network Components#Routers|router]] and these are primarily by homes and small businesses.
+SOHO stands for "Small Office / Home Office" [[Network ComponentsRouters
+  -|router]] and these are primarily by homes and small businesses.
 
 To access the configuration of this router, type in the IP address of the router in your browser and login to the router.
 

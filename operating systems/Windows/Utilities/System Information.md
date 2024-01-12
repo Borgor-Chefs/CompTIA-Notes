@@ -1,4 +1,9 @@
-Tags: [#os #windows #utility]
+---
+tags:
+  - os
+  - windows
+  - utility
+---
 Program Name: `msinfo32.exe`
 
 # System Information

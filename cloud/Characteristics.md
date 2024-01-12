@@ -1,4 +1,7 @@
-Tags: [#cloud]
+---
+tags:
+  - cloud
+---
 
 # Cloud Characteristics
 

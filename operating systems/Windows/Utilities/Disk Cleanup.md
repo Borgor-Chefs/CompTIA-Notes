@@ -1,4 +1,9 @@
-Tags: [#os #windows #utility]
+---
+tags:
+  - os
+  - windows
+  - utility
+---
 Program Name: `cleanmgr.exe`
 
 # Disk Cleanup
