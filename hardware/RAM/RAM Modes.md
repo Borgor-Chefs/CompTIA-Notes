@@ -18,8 +18,6 @@ If you are running...
 
 ## Dual Channel Mode
 
-Dual Channel Mode
-
 To meet the demands of faster processors and memory controllers, the dual channel mode was developed so that the memory controller could interface with two [[RAM Slots#Dual Inline Memory Module (DIMM)|DIMMs]] simultaneously. However these DIMMs must be identical.
 
 In order for dual channel mode to function, the [[The Motherboard|motherboard]] must be equipped to work in dual channel mode, the [[RAM Slots#Dual Inline Memory Module (DIMM)|DIMMs]] must be identical to each other in speed, size and features. The DIMMs must be inserted into the motherboard in a specific slot configuration.
