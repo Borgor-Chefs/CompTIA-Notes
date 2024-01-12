@@ -1,9 +1,13 @@
-Tags: [#networking #application_layer]
-[Link](https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol).
-
-# SNMP (Simple Network Management Protocol)
+---
+tags:
+  - networking
+  - application_layer
+---
+# Simple Network Management Protocol (SNMP)
 
 >[[Networking Ports|Standard port]]: 161/162 (trap)
+>[Link](https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol).
+
 
 This is used for network management and is primarily used to collect dat from various network devices such as: routers, printers and servers.
 

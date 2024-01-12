@@ -1,10 +1,13 @@
-Tags: [#networking #application_layer]
-
+---
+tags:
+  - networking
+  - application_layer
+---
 # Mail Related Protocols
 
 These are protocols related to mail.
 
-## SMTP (Simple Mail Transfer Protocol)
+## Simple Mail Transfer Protocol (SMTP)
 
 >[[Networking Ports|Standard port]]: 25
 >[Link](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol).
@@ -13,7 +16,7 @@ These are protocols related to mail.
 
 This protocol uses [[TCP|TCP]] to send transfer mail over the internet. It uses TCP to deliver mail because you want to make sure that the mail was actually sent.
 
-## POP3 (Post Office Protocol Ver. 3)
+## Post Office Protocol Ver. 3 (POP3)
 
 >[[Networking Ports|Standard port]]: 110
 >[Link](https://en.wikipedia.org/wiki/Post_Office_Protocol).
@@ -24,7 +27,7 @@ Where SMTP is used to send email, POP3 is used to receive email. All POP3 does i
 
 This protocol, unlike IMAP4, doesn't sync the emails between your machine and the mail server. POP3 is commonly used in email applications such as Microsoft Outlook.
 
-## IMAP (Internet Mail Access Protocol Ver. 4)
+## Internet Mail Access Protocol Ver. 4 (IMAP)
 
 >[[Networking Ports|Standard port]]: 143
 >[Link](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol).

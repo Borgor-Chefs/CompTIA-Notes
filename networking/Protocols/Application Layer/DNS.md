@@ -1,8 +1,12 @@
-Tags: [#networking #application_layer]
-[[Networking Ports|Standard port]]: 53
-[Link](https://en.wikipedia.org/wiki/Domain_Name_System).
+---
+tags:
+  - networking
+  - application_layer
+---
+# Domain Name System (DNS)
 
-# DNS (Domain Name System)
+>[[Networking Ports|Standard port]]: 53
+>[Link](https://en.wikipedia.org/wiki/Domain_Name_System).
 
 This resolves domain names like www.google.com to an IP address like 8.8.8.8.
 

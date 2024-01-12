@@ -1,8 +1,12 @@
-Tags: [#networking #application_layer]
-[[Networking Ports|Standard port]]: SMB & CIFS 445
-[Link](https://en.wikipedia.org/wiki/Server_Message_Block).
+---
+tags:
+  - networking
+  - application_layer
+---
+# Server Message Block (SMB)
 
-# SMB (Server Message Block)
+>[[Networking Ports|Standard port]]: SMB & CIFS 445
+>[Link](https://en.wikipedia.org/wiki/Server_Message_Block).
 
 >Latest version: 3.1.1 (Windows 10 & Windows Server 2016)
 
@@ -20,7 +24,7 @@ This is a protocol that enables file sharing, printer sharing, network browsing 
 
 This is an older protocol developed in 1983 by Barry A. Feigenbaum at IBM and relies on [[TCP]] for transport.
 
-## CIFS (Common Internet File System)
+## Common Internet File System (CIFS)
 
 This is a *dialect* of SMB and added more features such as:
 

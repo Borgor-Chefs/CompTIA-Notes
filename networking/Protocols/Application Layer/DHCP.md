@@ -1,8 +1,12 @@
-Tags: [#networking #application_layer]
-[[Networking Ports|Standard port]]: 67/68
-[Link](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol).
+---
+tags:
+  - networking
+  - application_layer
+---
+# Dynamic Host Configuration Protocol (DHCP)
 
-# DHCP (Dynamic Host Configuration Protocol)
+>[[Networking Ports|Standard port]]: 67/68
+>[Link](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol).
 
 This is used to assign IP addresses to computers along with manage them. This is essentially a broker for IP addresses for computers that dynamically obtain their IP.
 

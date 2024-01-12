@@ -1,8 +1,12 @@
-Tags: [#networking #application_layer]
-[[Networking Ports|Standard port]]: 3389 (TCP/UDP)
-[Link](https://en.wikipedia.org/wiki/Remote_Desktop_Protocol).
+---
+tags:
+  - networking
+  - application_layer
+---
+# Remote Desktop Protocol (RDP)
 
-# RDP (Remote Desktop Protocol)
+>[[Networking Ports|Standard port]]: 3389 (TCP/UDP)
+>[Link](https://en.wikipedia.org/wiki/Remote_Desktop_Protocol).
 
 >Latest version: 10.0
 

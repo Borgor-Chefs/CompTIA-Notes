@@ -1,8 +1,12 @@
-Tags: [#networking #application_layer]
-[[Networking Ports|Standard port]]: 20/21
-[Link](https://en.wikipedia.org/wiki/File_Transfer_Protocol).
+---
+tags:
+  - networking
+  - application_layer
+---
+# File Transfer Protocol (FTP)
 
-# FTP (File Transfer Protocol)
+>[[Networking Ports|Standard port]]: 20/21
+>[Link](https://en.wikipedia.org/wiki/File_Transfer_Protocol).
 
 This is the standard protocol used by web users for file transfer. Users can download and upload files over the internet. This transfer can be done by a web browser or FTP software.
 
@@ -14,7 +18,7 @@ This is a connection oriented protocol that uses [[TCP|TCP]] for the actual file
 
 The following protocols are based off of FTP but are different in their own right.
 
-### TFTP (Trivial File Transfer Protocol)
+### Trivial File Transfer Protocol (TFTP)
 
 This is a very simple protocol that is similar to FTP but also very different:
 
@@ -22,6 +26,6 @@ This is a very simple protocol that is similar to FTP but also very different:
 - used for transferring files over the same network
 - this uses [[UDP|UDP]] instead of [[TCP|TCP]]
 
-### SFTP (Secure/SSH File Transfer Protocol)
+### Secure/SSH File Transfer Protocol (SFTP)
 
 This is again similar to [[FTP|FTP]] however this protocol adds a layer of security by using SSH.

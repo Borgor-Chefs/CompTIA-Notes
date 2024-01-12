@@ -1,8 +1,12 @@
-Tags: [#networking #application_layer]
-[[Networking Ports|Standard port]]: LDAP is 389, LDAPS is 636.
-[Link](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol).
+---
+tags:
+  - networking
+  - application_layer
+---
+# Lightweight Directory Access Protocol (LDAP)
 
-# LDAP (Lightweight Directory Access Protocol)
+>[[Networking Ports|Standard port]]: LDAP is 389, LDAPS is 636.
+>[Link](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol).
 
 This is an open, vendor-neutral, industry standard application protocol for accessing and maintaining distributed directory information services over an IP network.
 
