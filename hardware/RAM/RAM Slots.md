@@ -1,3 +1,5 @@
+Tags: [#ram]
+
 # Random Access Memory (RAM) Slots
 
 RAM sticks (circuit boards / pieces) are installed on the [[The Motherboard|motherboard]] in specific RAM slots and sometimes in specific configurations.
@@ -13,6 +15,8 @@ The terms 32-bit and 64-bit data path refer to the amount of bits which are tran
 There are types of RAM slots which use specific types of RAM sticks.
 
 ### Dual Inline Memory Module (DIMM)
+
+^7a04f0
 
 ![[Pasted image 20220814214508.png]]
 
