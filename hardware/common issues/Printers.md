@@ -1,6 +1,6 @@
-Tags: [#printers]
+Tags: [#printers #issues]
 
-# Common Issues with Printers
+# Common Issues
 
 For the types of printers, see [[Types of Printers|here]].
 
