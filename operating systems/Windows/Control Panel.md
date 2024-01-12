@@ -32,13 +32,17 @@ This is a huge collection of "applets" which control various aspects of your Win
 
 >Some of these applets are standalone programs while others are built into Control Panel.
 
+The reason why Control Panel hasn't been completely removed is that some older installers still call Control Panel directly or make use of things that are basically deprecated but haven't been removed.
+
+>This same reasoning is probably why Windows gets hacked too often, the attack surface is huge.
+
 ## Internet Options
 
 This section of the control panel is largely deprecated because it controls the settings of Internet Explorer, which has been deprecated in favor of Microsoft Edge. However, the settings here still get applied to Microsoft Edge.
 
 >On my Windows 10 machine, opening Internet Explorer reroutes to Microsoft Edge.
 
-There is really no reason to use this since most if not more settings are present in Microsoft Edge and configurable right from the browser. This is likely a compatibility feature when migrating from IE to Edge when you upgraded from Windows 7 to a newer version of Windows.
+There is really no reason to use this since most if not more settings are present in Microsoft Edge and configurable right from the browser. This is likely a compatibility feature when migrating from IE to Edge when you upgraded from Windows 7 to a newer version of Windows (e.g., 10 or 11).
 
 However, I think there are some configuration settings which aren't available in modern Edge such as controlling what version of HTTP or TLS you want to use. 
 
