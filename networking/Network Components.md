@@ -11,7 +11,7 @@ These are typical hardware components you'll see in the field.
 - [[#Routers|router]]
 - [[#Network Interface Card (NIC)|network interface card]]
 - [[#Wireless Access Point (WAP)|wireless access point]]
-- patch panel
+- [[#Patch Panels|patch panel]]
 
 Some types of network components use Power over Ethernet (PoE) to supply power to the device. Some devices do not have this feature and they will instead have an interface to receive power.
 
