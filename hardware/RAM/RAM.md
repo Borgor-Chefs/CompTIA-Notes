@@ -30,6 +30,8 @@ This type of RAM uses capacitors and has to be refreshed often.
 
 ### Static RAM
 
+^e7da69
+
 This type of RAM uses transistors and does **not** have to be refreshed, making this faster than [[#^ea2a9c|DRAM]]. But SRAM is also very expensive, SRAM is comparable to the memory caches used by the [[CPU]].
 
 ### Synchronous Dynamic RAM (SDRAM)
