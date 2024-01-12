@@ -2,87 +2,104 @@ Tags: [#cpu]
 
 # The Central Processing Unit (CPU)
 
+![[Pasted image 20220826153959.png]]
+
 This is the module which performs computational tasks such as addition, subtraction, multiplication, moving data from register to register, controlling [[RAM|memory]] and other important tasks.
 
-## The CPU Socket
+The CPU is the largest component on the [[The Motherboard|motherboard]], typically after the CPU is inserted into a [[#^062ecf|socket]] it is covered by a [[Heat Sink|heat sink]] and a [[Fans|fan]] or has a [[Water Cooling|water cooling]] component.
 
-^595892
+## CPU Bit Sizes
 
-The processor socket is the place on the [[The Motherboard|motherboard]] where the CPU is placed. It is a square plastic or metal holder with multiple holes which are meant for the pins of the CPU. This allows for the physical & electrical contact between the motherboard and the CPU.
+CPUs come in 32-bit (old) and 64-bit (standard) versions, the main difference being how the CPU handles memory.
 
-A modern CPU socket is called a zero insertion force or ZIF. Where the CPU is installed with no force (typically you just place it in in the correct manner).
+- 32-bit can address $2^{32}$ bytes of information, equivalent to 4 gigabytes (GB).
+- 64-bit can address $2^{64}$ bytes of information, equivalent to 16 exabytes (EB).
+	- This is about 4 billion times more than a 32-bit processor.
+	- This number is so huge that it is virtually infinite since (in 2022) we will never need to use that much [[RAM|memory]].
 
-### Socket Design Packages
+## Manufacturers
 
-There are multiple CPU [[#^595892|socket]] designs which are called "packages".
+These are the companies which produce CPUs amongst other hardware but there are two major companies;
 
-#### Pin Grid Array (PGA)
+- [[#^289a44|Intel]]
+- [[#^7991e9|Advanced Micro Devices]] (AMD)
 
-A PGA is a typical square ZIF [[#^595892|socket]] design with holes and a lock down lever.
+### Intel
 
-#### Land Grid Array (LGA)
+^289a44
 
-The modern design for [[#^595892|socket]] design packages. This is a socket with a cover and a lever which covers the CPU with the cover. The socket itself has pins where the CPU does not instead, the CPU has pads which rest on the pins, making contact with the socket.
+Intel was the largest manufacturer of processors and was founded in the late 1960s. Some examples of their CPUs are:
 
-### Socket Types
+- 286
+- 386
+- 486
+- Celeron
+- Pentium
+- i3
+- i5
+- i7
+- i9
 
-There are two main [[#^595892|socket]] types which are categorized by two different brands:
+### Advanced Micro Devices (AMD)
 
-- [[#^d215df|Intel]]
-- [[#^0556b8|AMD]]
+^7991e9
 
-#### Intel
+AMD is the largest manufacturer of processors and was founded in the late 1960s like [[#^289a44|Intel]]. Some of their CPUs are:
 
-^d215df
+- k5
+- k6
+- Athlon
+- Duron
+- Sempron
+- Ryzen
+- Threadripper
 
-These are the socket types designed by Intel. They are sorted by the increasing amount of pins present within the socket.
+## Sockets
 
-##### LGA 775 a.k.a. Socket T
+^062ecf
 
-^66c202
+CPUs get inserted into [[CPU Sockets|sockets]], they essentially act as the bridge between the [[The Motherboard|motherboard]] and the CPU.
 
-![[Pasted image 20220824223229.png]]
+## Speeds
 
-Released in 2004, this socket type has 775 pins and was meant to succeed socket 478. This socket type was designed for Pentium 4 and Pentium dual core processors.
+The speed of a CPU is measured in MHz or GHz, for example; a CPU at a speed of...
 
-##### LGA 1150 a.k.a. Socket H3
+- 1 MHz has 1 million cycles per second
+- 500 MHz has 500 million cycles per second
+- 1 GHz has 1 billion cycles per second
+- 3 GHz has 3 billion cycles per second
 
-![[Pasted image 20220824224025.png]]
+## Cores
 
-Released in 2013, this socket type has 1150 pins and is the successor to the [[#^ce731c|LGA 1155]]. This socket supports Haswell and Broadwell based microprocessors.
+![[Pasted image 20220826154212.png]]
 
-##### LGA 1155 a.k.a. Socket H2
+This is where the reading and execution of instructions takes place, CPUs can have multiple cores. A single core processes one instruction at a time. The more cores, the more processing power since there are more instructions being executed per cycle.
 
-^ce731c
+CPUs which have multiple cores are called "multi-core" processors, for example...
 
-![[Pasted image 20220824223833.png]]
+- A dual core CPU has 2 cores
+- A quad core CPU has 4 cores
 
-Released in 2011, this socket type has 1155 pins and was meant to replace the [[#^d56d9d|LGA 1156]]. This socket type was designed for Intel CPUs that use the Sandy Bridge and Ivy Bridge architecture.
+## Memory Cache
 
-Note that the CPUs that are made for the LGA 1155 socket and [[#^d56d9d|LGA 1156]] socket are not compatible with each other due to their physical differences.
+![[Pasted image 20220826160131.png]]
 
-##### LGA 1156 a.k.a. Socket H/H1
+This is the CPU's internal memory. Caches are up of very fast [[RAM#^e7da69|SRAM]].
 
-^d56d9d
+The cache's purpose is to hold data and instructions waiting to be used by the processor, it will prioritize data and instructions that are very frequently used by the CPU to improve the overall speed of the CPU.
 
-![[Pasted image 20220824223521.png]]
+### Cache Levels
 
-Released in 2009, this socket type has 1156 pins. This socket type was designed for the Intel Core i3 and i5 processors.
+The CPU will consult its caches in order of their speeds, prioritizing the fastest first then the slowest. If the CPU cannot find what it is looking for in any of its caches, it will look for it in memory.
 
-##### LGA 1366 a.k.a. Socket B
+#### Level 1 Cache, L1 or Primary Cache
 
-^3164e1
+^66b314
 
-![[Pasted image 20220824223355.png]]
+This type of cache is located on the processor itself and is the fastest form of cache.
 
-Released in 2008, this socket type has 1366 pins and was meant to succeed socket [[#^66c202|LGA 775]]. This socket type was designed for the Intel Core i7 and Xeon processors.
+#### Level 2 Cache, L2 or External Cache
 
-##### LGA 2011 a.k.a. Socket R
+This type of cache is located either on the [[The Motherboard|motherboard]] or on the CPU itself (newer CPUs). This is used to catch recent data accesses from the processor that were not caught by the [[#^66b314|level 1 cache]].
 
-![[Pasted image 20220824224327.png]]
-
-Released in 2011, this socket type has 2011 pins and has succeeded the [[#^3164e1|LGA 1366]]. This socket was designed for high-performance CPUs that are based on the Sandy Bridge and Ivy Bridge processors.
-
-#### AMD
-
-^0556b8
+Level 2 cache is not as fast as [[#^66b314|level 1 cache]], but it is a lot bigger.
