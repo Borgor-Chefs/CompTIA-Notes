@@ -146,7 +146,7 @@ You can recognize this port by its D shape. Fireware has transfer speeds up to 4
 
 ^519428
 
-The [[Network Interface Card|Network Interface Card]] (NIC) is used for networking purposes, this has a port which fits a RJ-45 or ethernet cable. The purpose of this port is to provide a constant connection to a network.
+The [[Network Interface Card|Network Interface Card]] (NIC) is used for networking purposes, this has a port which fits a [[Cables and Connectors#^459cd4|RJ-45]] connector (ethernet cable). The purpose of this port is to provide a constant connection to a network.
 
 The bandwidth ranges from 10 to 1000 Mb/s. Each NIC has a unique identifier known as a MAC address.
 
