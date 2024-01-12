@@ -8,8 +8,8 @@ Note that mainstream support is up until 5 years after release. Windows versions
 
 ## Topics
 
-- [[certifications/comptia a+/operating systems/Windows/Tools/Command Line Tools||command line tools]]
-- [[Common Issues|common issues]]
+- [[comptia a+/operating systems/Windows/Tools/Command Line Tools|Windows Commands]]
+- Common Issues
 - [[Control Panel|control panel]]
 - [[Microsoft Management Console|Microsoft management console]]
 - [[Task Manager|task manager]]

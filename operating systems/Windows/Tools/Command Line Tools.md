@@ -1,5 +1,8 @@
-Tags: [#os #windows]
-
+---
+tags:
+  - os
+  - windows
+---
 # Command Line Tools
 
 These are programs that do things from a command line.
@@ -100,7 +103,7 @@ These are programs that do things from a command line.
 `tracert` sample output:
 
 ```
-C:\Users\Liam Major>tracert google.ca
+C:\Users\XXXXXX>tracert google.ca
 
 Tracing route to google.ca [172.217.14.195]
 over a maximum of 30 hops:

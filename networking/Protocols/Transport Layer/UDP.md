@@ -1,10 +1,14 @@
-Tags: [#networking #transport_layer]
-
-# UDP (User Datagram Protocol)
+---
+tags:
+  - networking
+  - transport_layer
+  - protocol
+---
+# User Datagram Protocol (UDP)
 
 ![[Pasted image 20230331172002.png]]
 
-This protocol is similar to TCP with the following differences:
+This protocol is similar to [[TCP|TCP]] with the following differences:
 
 - it doesn't guarantee that all data will be received
 - it is connectionless (there is no three way handshake)

@@ -1,6 +1,10 @@
-Tags: [#networking #transport_layer]
-
-# TCP (Transmission Control Protocol)
+---
+tags:
+  - networking
+  - protocol
+  - transport_layer
+---
+# Transmission Control Protocol (TCP)
 
 This is a connection oriented protocol, meaning that it must first acknowledge a session between two computers that are communicating. It establishes a session by performing a "three way handshake".
 

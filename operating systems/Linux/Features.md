@@ -1,3 +1,8 @@
+---
+tags:
+  - os
+  - linux
+---
 # Linux Features
 
 Most of these I already know or they are integration with Windows-based technology.
