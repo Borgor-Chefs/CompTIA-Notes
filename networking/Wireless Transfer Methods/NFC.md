@@ -1,5 +1,7 @@
-Tags: [#networking]
-
+---
+tags:
+  - networking
+---
 # Near-field Communication
 
 This is a method of data transfer/communication using radio waves to communicate with another NFC device.
