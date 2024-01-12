@@ -1,5 +1,8 @@
-Tags: [#printers]
-
+---
+tags:
+  - printers
+  - networking
+---
 # Printer Connection Setups
 
 Printers allow for a computer to print documents on paper.

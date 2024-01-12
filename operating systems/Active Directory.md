@@ -1,5 +1,8 @@
-Tags: [#os]
-
+---
+tags:
+  - os
+  - networking
+---
 # Active Directory
 
 This is a directory service developed by Microsoft for Windows networks. It stores information about objects on a network (such as printers, computers, users, etc.) in a hierarchical structure to easily manage permissions and control access to network resources.

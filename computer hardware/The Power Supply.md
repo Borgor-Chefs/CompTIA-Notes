@@ -1,3 +1,7 @@
+---
+tags:
+  - hardware
+---
 # The Power Supply
 
 This big piece of hardware supplies power to the computer and it converts AC current to DC current and to the specific voltages that the computer needs e.g., 3.3V, 5V and 12V.

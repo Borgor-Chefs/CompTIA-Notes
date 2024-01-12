@@ -4,6 +4,7 @@ tags:
   - expansion_card
   - interface
   - bus_slot
+  - about
 ---
 # Bus Slots / Expansion Slots
 
@@ -13,7 +14,10 @@ They are also called expansion slots since you can add a expansion card to exten
 
 - a [[Sound Card|sound card]]
 - a [[Network Interface Card|network card]]
-- a graphics card
+- a [[Graphics Card|graphics card]]
+
+>I should not that these are form factors (primarily) with their own protocols on how they read data from their inserted component. The functionality of the card comes from the card's design e.g., an [[!Expansion Cards|expansion card]].
+>E.g., [[M2|M.2]] is a form factor that supports the [[NVMe]] protocol.
 
 ## Types of Bus Slots
 
@@ -21,7 +25,7 @@ There are several types of bus slots such as:
 
 - older slots
     - [[ISA|ISA slot]]
-    - [[#Peripheral Component Interconnect (PCI)|PCI slot]]
-    - [[#Accelerated Graphics Port (AGP)|AGP slot]]
+    - [[PCI|PCI slot]]
+    - [[AGP|AGP slot]]
 - modern slots
-    - [[#PCI Express (PCIe)|PCIe slot]]
+    - [[PCIe|PCIe slot]]

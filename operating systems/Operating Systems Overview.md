@@ -1,5 +1,11 @@
-Tags: [#os]
-
+---
+tags:
+  - os
+  - about
+  - windows
+  - macos
+  - linux
+---
 # Operating Systems Overview
 
 The main goal of an operating system is to be the tool which the user requires in order to complete their task.

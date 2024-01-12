@@ -1,5 +1,7 @@
-Tags: [#os]
-
+---
+tags:
+  - os
+---
 # Installing Applications
 
 When installing applications, there are some concerns you may want to think about before installing anything.

@@ -33,7 +33,7 @@ If these all fail then come the more advanced issues such as checking if the pri
 
 ### Fixing Printer Streaks
 
-If your [[Types of Printers#^a0c9d9|inkjet]] printer is streaking it is a sign that there could be an issue with the ink cartridges with an inkjet printer.
+If your [[Types of Printers#Inkjet Printer|inkjet]] printer is streaking it is a sign that there could be an issue with the ink cartridges with an inkjet printer.
 
 There should be tools provided by the manufacturer for fixing this issue to clean the print head.
 

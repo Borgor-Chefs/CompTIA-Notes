@@ -1,5 +1,7 @@
-Tags: [#os]
-
+---
+tags:
+  - os
+---
 # File Systems
 
 Before data can be written to your storage device, the device must first be partitioned and given structure before anything can be written to it. Operating systems expect the data to be written in a certain format.
@@ -67,4 +69,4 @@ This is a way of creating or rewriting the file system, this can be good or bad 
 
 >A handy command to do this on [[Operating Systems Overview#Linux|Linux]] is:
 >`dd -if /dev/zero -of /dev/[hard drive]`
->Here, you are echoing zeros into the targeted [[comptia a+/computer hardware/storage devices/hard drives/About|hard drive]].
+>Here, you are echoing zeros into the targeted [[Storage Devices|storage device]].

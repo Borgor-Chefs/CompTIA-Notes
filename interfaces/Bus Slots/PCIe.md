@@ -7,28 +7,25 @@ tags:
 # Peripheral Component Interconnect Express (PCIe)
 
 >The main article about PCIe: [Wikipedia](https://en.wikipedia.org/wiki/PCI_Express).
->Since PCI is no longer being used in production.
+>PCIe superseded PCI in 2004.
 
-This is the modern bus type developed in 1993, supporting a 32-bit or 64-bit data path. PCI slots have a bandwidth between 133 MB/s and 533 MB/s. These are half the physical length of the older [[ISA|ISA]] slots.
+![[Pasted image 20231220152439.png]]
 
-- modern iteration - data transfers in serial
-    - [[#PCI Express (PCIe)]]
-    - [[#miniPCIe]]
-- older iterations - data transfers in parallel
-    - PCI (was superseded by [[#PCI Express (PCIe)|PCIe]])
-    - [[#PCI Extended (PCI-X)]]
-    - [[#miniPCI]] (was superseded by [[#miniPCIe|miniPCIe]])
+>From top to bottom:
+>- PCIe x4
+>- PCIe x16
+>- PCIe x1
+>- PCIe x16
+>- PCI (32bit, 5V)
 
->PCIe is one of the most common bus types you will see.
+- supersedes
+    - [[PCI]]
+    - [[PCI#PCI Extended (PCI-X)|PCI-X]]
+    - [[AGP]]
+
+Developed in 2003 by [PCI-SIG](https://pcisig.com/), this was meant to replace PCI and AGP entirely and succeeded in doing so. This is now the standard bus slot you will find in modern computers (really any computer made after 2003).
+
 >In modern computers, you will mainly deal with PCIe in [[The Motherboard|motherboards]] and miniPCIe in laptops.
-
-## PCI Express (PCIe)
-
->From [Wikipedia](https://en.wikipedia.org/wiki/PCI_Express).
-
-The latest version of bus slots, meant to succeed all other bus (including the older version of PCI and [[!Bus Slots#Accelerated Graphics Port (AGP)|AGP]]) slots. A PCIe slot has a bandwidth of up to 4 GB/s and transfers data in serial in packets.
-
->PCIe is not backwards compatible with PCI slots since the two have very different architectures.
 
 There are varying sizes for PCIe slots and they are;
 
@@ -39,24 +36,23 @@ There are varying sizes for PCIe slots and they are;
 
 >The PCIe x16 slot has succeeded the [[AGP|AGP]] slot for a [[Graphics Card|video card]], but you may still encounter AGP slots on older computers.
 
+- older iterations - data transfers in parallel
+    - [[PCI]] (was superseded by [[#PCI Express (PCIe)|PCIe]])
+    - [[PCI#PCI Extended (PCI-X)|PCI-X]]
+    - [[PCI#miniPCI|miniPCI]] (was superseded by [[#miniPCIe|miniPCIe]])
+
+>PCIe is not backwards compatible with PCI slots since the two have very different architectures.
+
+## Speeds
+
+![[Pasted image 20231220153936.png]]
+
 ### miniPCIe
 
 >From [Wikipedia](https://en.wikipedia.org/wiki/PCI_Express#MINI-CARD).
 
-## Older Iterations
+![[Pasted image 20231220154331.png]]
 
-These are the older iterations of the PCI slot which are outdated and no longer made in modern computer hardware.
+>Showcasing the size difference between [[PCI#miniPCI|miniPCI]] and miniPCIe.
 
-### PCI Extended (PCI-X)
-
-This is a physical extension of the old PCI slot and sports a 64-bit bus. This is backwards compatible with the PCI slot.
-
-This was mainly designed for servers and high speed computers.
-
-### miniPCI
-
-This slot is used in laptops and is approximately 1/4 the size of a regular PCI slot. The miniPCI slot is a 32-bit, 33 MHz bus.
-
->It is possible to insert a miniPCI card into a PCI slot but, you'd have to use a miniPCI to PCI converter.
-
-This was superseded by [[#miniPCIe]].
+Most laptops built after 2005 use PCIe for [[!Expansion Cards|expansion cards]] but many manufacturers are moving towards the new [[M2|M.2]] form factor.

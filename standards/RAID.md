@@ -1,6 +1,7 @@
 ---
 tags:
   - storage
+  - standard
 ---
 # Redundant Array of Independent Disks (RAID)
 

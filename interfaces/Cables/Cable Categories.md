@@ -1,7 +1,6 @@
 ---
 tags:
   - networking
-  - standard
 ---
 # Cable Categories
 

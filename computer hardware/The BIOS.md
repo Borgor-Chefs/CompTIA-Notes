@@ -1,3 +1,7 @@
+---
+tags:
+  - hardware
+---
 # The Basic Input/Output System (BIOS)
 
 BIOS stands for "Basic Input/Output System" and it is the first thing to run on a computer when it starts up. The BIOS is software that is built into the [[The Motherboard|motherboard]] that initializes the computer's peripherals.

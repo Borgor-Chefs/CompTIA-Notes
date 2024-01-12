@@ -1,5 +1,7 @@
-Tags: [#motherboard]
-
+---
+tags:
+  - motherboard
+---
 # Motherboard Form Factors
 
 There are many sizes in which a motherboard can come in and this is called the [[The Motherboard|motherboard]] form factor. The most common being the ATX form factor.

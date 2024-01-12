@@ -41,7 +41,7 @@ This is a fiber optic cable that uses a push-pull connector similar to [[Coaxial
 
 ![[Pasted image 20230322193854.png]]
 
-This type of cable only allows light to enter at a single angle. This can span for greate distances.
+This type of cable only allows light to enter at a single angle. This can span for greater distances.
 
 ### Multimode Fiber (MMF)
 

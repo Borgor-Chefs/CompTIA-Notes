@@ -2,6 +2,7 @@
 tags:
   - storage
   - todo
+  - standard
 ---
 # NVM Express (NVMe) Drives
 

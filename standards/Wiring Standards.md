@@ -1,5 +1,8 @@
-Tags: [#networking]
-
+---
+tags:
+  - networking
+  - standard
+---
 # Wiring Standards
 
 These are the wiring standards created by TIA/EIA, namely:
