@@ -30,8 +30,8 @@ This is the latest partition format standard wherein each partition you create g
 
 - requires a [[The BIOS#Universal Extensible Firmware Interface (UEFI)|UEFI BIOS]]
 - can have up to 128 partitions
-- supports a maximum partition size is over 9 billion TB
-	- Windows can only support up to 256 TB partitions
+- supports a maximum partition size of over 9 billion TB
+	- the maximum partition size for Windows is 256 TB
 - there is no such thing as extended partitions nor logical drives in GPT
 
 ### MBR (Master Boot Record)

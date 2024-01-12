@@ -23,7 +23,7 @@ Formats such as:
 - NTFS
 	- the parent file system for this one is FAT32
 	- many operating systems support reading NTFS, but not writing
-	- this is mainly for [[Overview|Windows]], notable features include
+	- this is mainly for [[Windows Overview|Windows]], notable features include
 		- quotas
 		- file compression
 		- encryption
@@ -37,7 +37,7 @@ Formats such as:
 	- EXT4
 		- commonly used by Linux and [[Operating Systems Overview#Google Android|Android OS]]
 - ReFS
-	- this is also mainly for [[Overview|Windows]]
+	- this is also mainly for [[Windows Overview|Windows]]
 - APFS
 	- this is exclusive to [[Operating Systems Overview#Apple|Apple]] devices and has been optimized for SSDs
 	- notable features include
@@ -46,6 +46,9 @@ Formats such as:
 		- better data integrity
 
 ## File System Formatting
+
+>This is an easy way to completely wipe a drive clean.
+>You should do this every time you install an OS, just to remove any junk that's present.
 
 This is a way of creating or rewriting the file system, this can be good or bad in some scenarios.
 
@@ -60,6 +63,7 @@ This is a way of creating or rewriting the file system, this can be good or bad 
 
 >Quick format is the default format used during the installation of [[Windows Editions|Windows 10 and 11]].
 >The Windows command `diskpart` can be used for a full format.
+>From [Microsoft](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/diskpart).
 
 >A handy command to do this on [[Operating Systems Overview#Linux|Linux]] is:
 >`dd -if /dev/zero -of /dev/[hard drive]`
