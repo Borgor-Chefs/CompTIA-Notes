@@ -28,6 +28,6 @@ This is where the user manually sets the [[IP Address|IP address]], [[IP Address
 
 ![[Pasted image 20230331165933.png]]
 
-For computers running Windows 98 or later versions of Windows, in the event that a [[DHCP|DHCP]] server isn't available, the computer will assign an [[IP Address|IP address]] to itself on the 169.254.0.0 network so that it can communicate with computers on this same network. This kind of addressing is called "Automatic Private IP Address Assignment" or APIPA.
+For computers running Windows 98 or later versions of Windows, in the event that a [[DHCP|DHCP]] server isn't available, the computer will assign an [[IP Address|IP address]] to itself on the 169.254.0.1 network so that it can communicate with computers on this same network. This kind of addressing is called "Automatic Private IP Address Assignment" or APIPA.
 
-When a [[DHCP|DHCP]] server becomes available, the computer will request an IP from that server and replace the 169.254.0.0 with one from the server.
+When a [[DHCP|DHCP]] server becomes available, the computer will request an IP from that server and replace the 169.254.0.1 with one from the server.

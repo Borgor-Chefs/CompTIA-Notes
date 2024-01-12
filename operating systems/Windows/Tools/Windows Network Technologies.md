@@ -1,4 +1,4 @@
-Tags: [#os #windows]
+Tags: [#os #windows #networking]
 
 # Windows Network Technologies
 
@@ -21,7 +21,7 @@ Simply right click any folder from File Explorer, go to "Properties", finally th
 Each share contains:
 
 - a name
-	- if your name ends with a "$", then it is hidden
+	- if your name ends with a "$", then it is hidden from the network
 	- however, it is still present on the network and you can connect to it if you know what the name is
 - a path to the folder you want to share
 - the type (this is Windows by default)
