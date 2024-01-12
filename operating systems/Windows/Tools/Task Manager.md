@@ -44,4 +44,6 @@ This is a way to see all the processes used by each user and the resources they 
 
 ### Services
 
-These are background processes like daemons on Linux, you can start, stop, restart and inspect these services to figure out what they can do. Imagine a GUI for `systemctl` on Linux, or whatever init system you use.
+These are background processes like daemons on Linux, you can start, stop, restart and inspect these services to figure out what they can do.
+
+>Imagine a GUI for `systemctl` on Linux, or whatever init system you use.
