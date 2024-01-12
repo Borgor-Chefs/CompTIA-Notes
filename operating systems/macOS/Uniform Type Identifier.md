@@ -6,6 +6,7 @@ tags:
 # Uniform Type Identifier
 
 >All information pulled form [here](https://en.wikipedia.org/wiki/Uniform_Type_Identifier).
+>And from [Apple](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/understanding_utis/understand_utis_conc/understand_utis_conc.html).
 
 This is essentially a better MIME type as it "eliminates the ambiguities and problems associated with inferring a file's content from its MIME type, filename extension, or type or creator code". Sounds pretty cool.
 
@@ -19,8 +20,8 @@ UTI also has a inheritance-like feature wherein certain identifiers conform to c
 |public.content| |base class for all document content|
 |public.data|public.item|base class for all files, byte streams, pasteboard, etc.|
 |public.image|public.data, public.content|base class for all images|
-|public.text|?|(unsure) base class for all text|
-|public.case-insensitive-text|public.text?|(unsure) base class for all case-insensitive text|
+|public.text|public.data|base class for all text|
+|public.case-insensitive-text|public.text|(unsure) base class for all case-insensitive text|
 
 UTIs are also used to identify other file type identifiers:
 
