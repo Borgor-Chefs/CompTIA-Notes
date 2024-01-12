@@ -29,7 +29,7 @@ To fix this, simply change the channel the router operates on (within the router
 
 This is where you can set what security option the router operates on, such as:
 
-- WEP
-- WPA/WPA2
-- RADIUS
+- [[WEP|WEP]]
+- [[WPA|WPA/WPA2]]
+- [[RADIUS|RADIUS]]
 - nothing
