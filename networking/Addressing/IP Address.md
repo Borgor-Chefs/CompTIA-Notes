@@ -2,16 +2,19 @@
 tags:
   - networking
 ---
-
 # Internet Protocol Address
 
 This is a numeric identifer for computers that want to connect to a network, this is required for a device to communicate on a network.
 
-There are two versions of IP addresses: [[IPv4
-  -|IPv4]] and [[IPv6
-  -|IPv6]].
+There are two versions of IP addresses: [[#IPv4|IPv4]] and [[#IPv6|IPv6]].
 
 ## Versions
+
+### IPv6
+
+The original architects of networking thought that IPv4 would suffice and that we wouldn't run out of possible IP addresses. They were wrong, so they invented IPv6 which is a 128-bit hexadecimal address, e.g., 76dc:4f59:34cf:71cd:9dc6:89cd:45d6:67a2. Each 4-byte segment is separated by a semicolon.
+
+There are $2^{128}$ or 340,282,366,920,938,463,463,374,607,431,768,211,456 possible addresses.
 
 ### IPv4
 
@@ -22,12 +25,6 @@ There are $2^{32}$ or 4,294,967,296 possible addresses.
 >The first octet 127 is reserved for loopback testing.
 
 An IPv4 address consists of two parts: a network address and a host address.
-
-### IPv6
-
-The original architects of networking thought that IPv4 would suffice and that we wouldn't run out of possible IP addresses. They were wrong, so they invented IPv6 which is a 128-bit hexadecimal address, e.g., 76dc:4f59:34cf:71cd:9dc6:89cd:45d6:67a2. Each 4-byte segment is separated by a semicolon.
-
-There are $2^{128}$ or 340,282,366,920,938,463,463,374,607,431,768,211,456 possible addresses.
 
 ## Types
 
