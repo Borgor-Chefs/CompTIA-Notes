@@ -2,7 +2,6 @@
 tags:
   - networking
 ---
-
 # Firewalls
 
 This is basically the arbiter of all things related to networking. It's like the bouncer at a club, unless you meet a certain criteria, you're not going through.

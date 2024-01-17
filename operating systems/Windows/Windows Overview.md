@@ -3,7 +3,6 @@ tags:
   - os
   - windows
 ---
-
 # An Overview of Windows
 
 On the 220-1102 a+ exam, you will be tested on the two versions of Windows; 10 and 11. CompTIA considers all **in-support** Windows versions to be in scope for the exam.

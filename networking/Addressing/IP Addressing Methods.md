@@ -2,7 +2,6 @@
 tags:
   - networking
 ---
-
 # IP Addressing Methods
 
 There are two ways that a computer can be assigned an [[IP Address|IP address]]:

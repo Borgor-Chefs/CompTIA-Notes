@@ -4,6 +4,8 @@ tags:
   - macos
   - utility
 ---
+# XProtect
+
 Apple uses their own application XProtect to analyze program signatures and files to see if they contain any known malware signatures. This database of signatures is updated regularly, I'm assuming XProtect makes a connection to some centralized Apple database of malware signatures and fetches it periodically.
 
 XProtect checks for known malicious content whenever:

@@ -4,7 +4,6 @@ tags:
   - windows
   - networking
 ---
-
 # Windows Network Technologies
 
 This note is about various networking technologies that you can use on your Windows machine.

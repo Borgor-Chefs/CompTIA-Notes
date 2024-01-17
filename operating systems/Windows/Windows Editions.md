@@ -3,7 +3,6 @@ tags:
   - os
   - windows
 ---
-
 # Windows 10
 
 Windows 10 was released on July 29, 2015 (wow that's a long time ago) and is a single platform that can run on desktops, laptops, tablets, phones and all-in-one devices.

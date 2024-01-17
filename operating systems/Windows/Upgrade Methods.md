@@ -3,7 +3,6 @@ tags:
   - os
   - windows
 ---
-
 # Upgrade Methods
 
 This is all about how to upgrade windows and the two methods that can be used. This is different from installing because upgrading only touches the operating system files and nothing created by the user whereas installing entails wiping the entire system and starting fresh.

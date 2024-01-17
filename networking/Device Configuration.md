@@ -2,7 +2,6 @@
 tags:
   - networking
 ---
-
 # Device Configuration
 
 ## SOHO Routers

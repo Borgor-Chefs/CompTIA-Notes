@@ -3,7 +3,6 @@ tags:
   - os
   - windows
 ---
-
 # Windows Features
 
 This note is mainly about the management features that Windows offers for controlling and managing huge networks of Windows machines in a corporate environment.

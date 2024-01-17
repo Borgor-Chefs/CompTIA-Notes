@@ -3,7 +3,6 @@ tags:
   - networking
   - security
 ---
-
 # Wireless Security Protocols
 
 These are protocols for authenticating to a router/wireless access point (WAP) from your device along with encrypting traffic going to and from the WAP.

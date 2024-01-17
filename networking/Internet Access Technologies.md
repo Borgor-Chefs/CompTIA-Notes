@@ -2,7 +2,6 @@
 tags:
   - networking
 ---
-
 # Internet Access Technologies
 
 These are technologies which allow for access to the internet.

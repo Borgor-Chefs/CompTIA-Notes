@@ -2,7 +2,6 @@
 tags:
   - cloud
 ---
-
 # Cloud Characteristics
 
 Here are some characteristics of the cloud:

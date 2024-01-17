@@ -4,7 +4,6 @@ tags:
   - windows
   - utility
 ---
-
 # Task Manager
 
 The thing you know and love. However, you probably only use this to kill applications or monitor the usage of your CPU, GPU or internet connection.

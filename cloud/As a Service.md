@@ -2,7 +2,6 @@
 tags:
   - cloud
 ---
-
 # As a Service
 
 The most common types of "as a service" services are:

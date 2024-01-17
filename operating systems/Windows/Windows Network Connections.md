@@ -4,7 +4,6 @@ tags:
   - windows
   - networking
 ---
-
 # Windows Network Connections
 
 ![[Pasted image 20230825162038.png]]

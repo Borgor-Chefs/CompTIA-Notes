@@ -4,13 +4,11 @@ tags:
   - windows
   - utility
 ---
-
 # Control Panel
 
 This is a huge collection of "applets" which control various aspects of your Windows machine such as:
 
-- [[System
-  -|system configuration]]
+- [[#System|system configuration]]
 - admin tools
 - [[#Network and Sharing Center|network and sharing]]
 - security
