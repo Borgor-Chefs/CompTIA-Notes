@@ -9,4 +9,4 @@ This folder is about interfacing with computers and other devices through physic
 
 - for cables, see [[Cables|here]]
 - for bus slots, see [[!Bus Slots|here]]
-- for ports, see [[IO Ports|here]]
+- for ports, see [[!IO Ports|here]]

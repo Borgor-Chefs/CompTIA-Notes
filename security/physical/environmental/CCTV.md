@@ -1,3 +1,9 @@
+---
+tags:
+  - security
+  - environmental
+  - physical
+---
 # Closed Circuit Television
 
 You ever walk into a place and see cameras everywhere? That's CCTV. These are security cameras that monitor a given angle or area somewhere in a facility or building.

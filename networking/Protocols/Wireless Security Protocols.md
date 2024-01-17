@@ -1,6 +1,7 @@
 ---
 tags:
   - networking
+  - security
 ---
 
 # Wireless Security Protocols

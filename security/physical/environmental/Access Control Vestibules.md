@@ -1,3 +1,9 @@
+---
+tags:
+  - security
+  - environmental
+  - physical
+---
 # Access Control Vestibules
 
 These are systems to control a person's access, usually through a series of locked doors. These doors are (usually) electronically operated and can be controlled and accessed remotely.

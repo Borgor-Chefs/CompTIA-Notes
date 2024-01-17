@@ -1,3 +1,9 @@
+---
+tags:
+  - security
+  - lock
+  - physical
+---
 # Badge Reader
 
 ![[Pasted image 20231218171855.png]]

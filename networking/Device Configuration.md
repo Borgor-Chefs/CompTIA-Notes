@@ -18,7 +18,7 @@ From there you can access settings such as the [[IP Address#Private IP Address|p
 
 ![[Pasted image 20230421171706.png]]
 
-This is the name of a network you can connect to via. a [[Network Components#Routers|router]].
+This is the name of a network you can connect to via. a [[Networking Hardware#Routers|router]].
 It is shared amongst all devices in the network.
 
 The image above is an example of how computers scan for wireless networks.

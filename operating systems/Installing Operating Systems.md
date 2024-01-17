@@ -7,12 +7,12 @@ tags:
 To actually install something to make your computer function, you must first have something for the computer to boot from. This could be:
 
 - a hard drive
-	- HDD
-	- SDD
-	- external drive
-- a USB drive
-- a CD
-- an SD card
+	- [[HDD]]
+	- [[SSD]]
+	- [[External Hard Drive|external drive]]
+- a [[The Thumb Drive|USB drive]]
+- a [[CD-ROM|CD]]
+- an [[SD Card|SD card]]
 - Preboot eXecution Environment (PXE or "Pixie")
 	- this is a remote network installation
 	- your computer must support PXE for this to work
