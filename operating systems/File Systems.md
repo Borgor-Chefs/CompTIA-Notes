@@ -25,7 +25,7 @@ Formats such as:
 - NTFS
 	- the parent file system for this one is FAT32
 	- many operating systems support reading NTFS, but not writing
-	- this is mainly for [[Windows Overview|Windows]], notable features include
+	- this is mainly for [[!Windows|Windows]], notable features include
 		- quotas
 		- file compression
 		- encryption
@@ -35,13 +35,13 @@ Formats such as:
 		- recoverability
 - the Extended File System (EXT) family
 	- EXT3
-		- commonly used by [[Operating Systems Overview#Linux|Linux]]
+		- commonly used by [[!Operating Systems#Linux|Linux]]
 	- EXT4
-		- commonly used by Linux and [[Operating Systems Overview#Google Android|Android OS]]
+		- commonly used by Linux and [[!Operating Systems#Google Android|Android OS]]
 - ReFS
-	- this is also mainly for [[Windows Overview|Windows]]
+	- this is also mainly for [[!Windows|Windows]]
 - APFS
-	- this is exclusive to [[Operating Systems Overview#Apple|Apple]] devices and has been optimized for SSDs
+	- this is exclusive to [[!Operating Systems#Apple|Apple]] devices and has been optimized for SSDs
 	- notable features include
 		- encryption
 		- snapshots
@@ -67,6 +67,6 @@ This is a way of creating or rewriting the file system, this can be good or bad 
 >The Windows command `diskpart` can be used for a full format.
 >From [Microsoft](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/diskpart).
 
->A handy command to do this on [[Operating Systems Overview#Linux|Linux]] is:
+>A handy command to do this on [[!Operating Systems#Linux|Linux]] is:
 >`dd -if /dev/zero -of /dev/[hard drive]`
 >Here, you are echoing zeros into the targeted [[Storage Devices|storage device]].

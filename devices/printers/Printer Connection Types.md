@@ -2,6 +2,7 @@
 tags:
   - printers
   - networking
+  - device
 ---
 # Printer Connection Setups
 

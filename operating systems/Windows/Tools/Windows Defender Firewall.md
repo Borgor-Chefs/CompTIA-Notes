@@ -18,7 +18,7 @@ You can also block all incoming connections, including those in the list of the 
 
 ![[Pasted image 20230825153245.png]]
 
-Windows Defender Firewall is a [[Firewalls#Host Based Firewalls|host-based firewall]], meaning that it knows every single application that's on your computer and has a rule of whether or not any given app installed on your PC can transmit data over the network.
+Windows Defender Firewall is a [[Firewall#Host Based Firewalls|host-based firewall]], meaning that it knows every single application that's on your computer and has a rule of whether or not any given app installed on your PC can transmit data over the network.
 
 In the "Allowed Apps" section of this applet, you can configure which applications are allowed on both either profile of Windows Defender.
 

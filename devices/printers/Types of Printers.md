@@ -1,6 +1,7 @@
 ---
 tags:
   - printers
+  - device
 ---
 # Types of Printers
 

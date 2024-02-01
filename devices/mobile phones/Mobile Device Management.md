@@ -3,6 +3,7 @@ tags:
   - security
   - physical
   - phones
+  - device
 ---
 # Mobile Device Management (MDM)
 

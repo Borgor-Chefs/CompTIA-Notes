@@ -38,7 +38,7 @@ Generally used to transfer small files such as images, videos, audio, etc.
 
 A small network that consists of computers, printers, servers, etc. all physically located within the same building.
 
-The most common type of LAN is an ethernet LAN where all devices are connected via. [[Cable Categories#Cable Categories|CAT 5 ethernet cable]] to a [[Networking Hardware#Switches|switch]].
+The most common type of LAN is an ethernet LAN where all devices are connected via. [[Cable Categories#Cable Categories|CAT 5 ethernet cable]] to a [[Switch|switch]].
 
 ### Storage Area Network (SAN)
 

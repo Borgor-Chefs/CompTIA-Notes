@@ -2,6 +2,7 @@
 tags:
   - phones
   - hardware
+  - device
 ---
 # Liquid-Crystal Display
 

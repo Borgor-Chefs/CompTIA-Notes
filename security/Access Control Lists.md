@@ -6,7 +6,7 @@ tags:
 ---
 # Access Control Lists (ACLs)
 
-This is something software based that is used to allow or deny traffic, usually through a [[Networking Hardware#Routers|router]] or an [[Operating Systems Overview|operating system]].
+This is something software based that is used to allow or deny traffic, usually through a [[Router|router]] or an [[!Operating Systems|operating system]].
 
 ## Routers
 

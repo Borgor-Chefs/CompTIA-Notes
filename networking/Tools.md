@@ -1,8 +1,9 @@
 ---
 tags:
   - networking
+  - utility
 ---
-# Tools
+# Networking Tools
 
 ## Wire Crimper
 

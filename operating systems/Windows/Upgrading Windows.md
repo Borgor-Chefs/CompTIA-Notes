@@ -5,7 +5,7 @@ tags:
 ---
 # Upgrading Windows
 
-This doesn't really show any new concepts but is rather more of a checklist of decisions to make and actions to complete when you're upgrading Windows to a newer version (mind you with [[Operating Systems Overview#Linux|Linux]] it just works$^\text{TM}$).
+This doesn't really show any new concepts but is rather more of a checklist of decisions to make and actions to complete when you're upgrading Windows to a newer version (mind you with [[!Operating Systems#Linux|Linux]] it just works$^\text{TM}$).
 
 Here's a list of things to think about when upgrading:
 

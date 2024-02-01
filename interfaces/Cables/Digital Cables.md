@@ -25,7 +25,7 @@ These are cables which transmit digital (1 or 0) data.
 
 ![[Pasted image 20220828203527.png]]
 
-The RJ-11 is a 4-wire telephone jack used for connecting phones to landlines. This type of cable is also used to connect modems on computers. Used to connect computers to [[Network Types#Local Area Network (LAN)|LANs]] through the computer's [[Networking Hardware#Modems|modem]]. It locks itself in place using a hinged locking tab.
+The RJ-11 is a 4-wire telephone jack used for connecting phones to landlines. This type of cable is also used to connect modems on computers. Used to connect computers to [[Network Types#Local Area Network (LAN)|LANs]] through the computer's [[Modem|modem]]. It locks itself in place using a hinged locking tab.
 
 This connector resembles the [[#Register Jack 45 (RJ-45) (Ethernet Cable)|RJ-45]] connector but smaller.
 

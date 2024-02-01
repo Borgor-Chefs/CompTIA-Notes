@@ -104,7 +104,7 @@ Authentication is required before macOS can even start (which is good).
 
 This is probably the single best feature, this is literally a Linux shell but for a mainstream OS. It includes the standard Linux utilities along with some other ones.
 
->The default shell is ZSH, which is pretty fucking sexy.
+>The default shell is ZSH, which is pretty sexy.
 
 ## Force Quit
 

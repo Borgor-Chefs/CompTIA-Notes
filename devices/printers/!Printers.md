@@ -1,6 +1,8 @@
 ---
 tags:
   - printers
+  - about
+  - device
 ---
 # About Printers
 

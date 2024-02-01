@@ -1,0 +1,6 @@
+---
+tags:
+  - networking
+---
+# Device Configuration
+

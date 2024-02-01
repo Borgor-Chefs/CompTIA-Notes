@@ -2,6 +2,7 @@
 tags:
   - os
   - windows
+  - about
 ---
 # An Overview of Windows
 
