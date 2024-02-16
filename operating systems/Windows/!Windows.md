@@ -19,6 +19,15 @@ Note that mainstream support is up until 5 years after release. Windows versions
 - [[Task Manager|task manager]]
 - [[Upgrade Methods|upgrade methods]]
 - [[Windows Editions|windows editions]]
+- tools
+    - [[comptia a+/operating systems/Windows/Tools/Command Line Tools|Command Line Tools]]
+    - [[Control Panel]]
+    - [[Microsoft Defender AntiVirus]]
+    - [[Microsoft Management Console]]
+    - [[Task Manager]]
+    - [[Windows Defender Firewall]]
+    - [[Windows Network Technologies]]
+    - [[Windows Recovery Environment]]
 - utilities
 	- [[Certificate Manager]]
 	- [[Device Manager]]

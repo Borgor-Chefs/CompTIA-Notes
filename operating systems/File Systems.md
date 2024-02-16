@@ -33,6 +33,10 @@ Formats such as:
 		- large file support
 		- security
 		- recoverability
+- the Encrypting File System (EFS)
+    - this is an encrypted file system that requires NTFS
+    - Windows supports this file system type on every edition but Home
+    - it uses the username and password of a user to encrypt the key
 - the Extended File System (EXT) family
 	- EXT3
 		- commonly used by [[!Operating Systems#Linux|Linux]]
@@ -67,6 +71,6 @@ This is a way of creating or rewriting the file system, this can be good or bad 
 >The Windows command `diskpart` can be used for a full format.
 >From [Microsoft](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/diskpart).
 
->A handy command to do this on [[!Operating Systems#Linux|Linux]] is:
+>A handy command to format a drive on [[!Operating Systems#Linux|Linux]] is:
 >`dd -if /dev/zero -of /dev/[hard drive]`
 >Here, you are echoing zeros into the targeted [[Storage Devices|storage device]].

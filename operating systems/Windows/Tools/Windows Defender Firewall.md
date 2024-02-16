@@ -3,8 +3,11 @@ tags:
   - os
   - windows
   - networking
+  - security
 ---
 # Windows Defender Firewall
+
+>Comes pre-installed on Windows 10 & 11.
 
 This is the built-in firewall for Windows and comes shipped with every single [[Windows Editions|edition]]. You can disable this firewall manually by opening [[Control Panel|control panel]] and clicking the "Windows Defender Firewall" applet.
 
@@ -44,3 +47,8 @@ In the "Advanced Options" section, you can create new rules with the following p
 - name
 	- the name of this new firewall exception and an optional description
 
+>The "allow if secure" option is done by IPsec.
+
+## Troubleshooting Applications
+
+Sometimes, like [[Microsoft Defender AntiVirus]], applications might not work correctly because of the firewall. What you will have to do is **temporarily** disable the firewall and run the application again.

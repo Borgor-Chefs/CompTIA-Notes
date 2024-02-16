@@ -30,4 +30,4 @@ Make sure that your website sanitizes any form of external JavaScript to prevent
 
 As for non-persistent, tell your users not to be dumb.
 
-Another option (which is recommended if you ever use the dark web) is to disable JavaScript. Three letter agencies love using JavaScript to pull your real IP.
+>Another option (which is HIGHLY recommended if you ever use the dark web) is to disable JavaScript. Three letter agencies love using JavaScript to pull your real IP.
