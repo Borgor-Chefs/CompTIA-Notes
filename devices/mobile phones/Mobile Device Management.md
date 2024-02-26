@@ -20,3 +20,5 @@ Companies can set policies on your phone such as:
     - camera
 
 Companies will either control the entire device or a specific partition of your device. If a company manages just a partition, this is actually better because if you ever decide to leave, they can blow away the partition with the company data on it and leave your personal data intact.
+
+Companies can also install a firewall on your device to either limit or protect their users from viruses or suspicious activity on the device.

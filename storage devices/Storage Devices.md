@@ -20,7 +20,7 @@ This folder is dedicated to all types of storage which a computer can have.
     - [[SD Card|SD Cards]]
 - [[Hard Drives|hard drives]]
 - portable storage media
-    - [[The Thumb Drive|USB Stick (Thumb Drive)]]
+    - [[USB Stick|USB Stick (Thumb Drive)]]
     - [[External Hard Drive|External Hard Drive]]
 - older technologies
     - [[Optical Drives|optical drives]] (these are still somewhat relevant, but as far as I'm aware, not commonly used anymore because of USB sticks)

@@ -10,7 +10,7 @@ To actually install something to make your computer function, you must first hav
 	- [[HDD]]
 	- [[SSD]]
 	- [[External Hard Drive|external drive]]
-- a [[The Thumb Drive|USB drive]]
+- a [[USB Stick|USB drive]]
 - a [[CD-ROM|CD]]
 - an [[SD Card|SD card]]
 - Preboot eXecution Environment (PXE or "Pixie")

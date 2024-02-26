@@ -37,7 +37,7 @@ UEFI can utilize the mouse as well as opposed to the BIOS' keyboard only. Anothe
 
 When you turn on a computer, the computer does a power on self test ([[#Power On Self Test (POST)|POST]]). This ensure that all the vital components are working, after this test the BIOS will then search for something to boot from (usually an operating system).
 
-You can also boot from a [[The Thumb Drive|USB]], [[CD-ROM|CD]] or even a [[The Floppy Drive|floppy disk]] as long as they have the proper boot files on them. These boot devices are stored in a list in the BIOS and the BIOS will check each one for something to boot from. The previously mentioned list and be changed.
+You can also boot from a [[USB Stick|USB]], [[CD-ROM|CD]] or even a [[The Floppy Drive|floppy disk]] as long as they have the proper boot files on them. These boot devices are stored in a list in the BIOS and the BIOS will check each one for something to boot from. The previously mentioned list and be changed.
 
 ## Power On Self Test (POST)
 

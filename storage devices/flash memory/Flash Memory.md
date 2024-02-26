@@ -11,7 +11,7 @@ Flash memory is an "electronic non-volatile computer memory storage medium" that
 
 There are two types of flash storage, NOR and NAND flash which reflect their internal logical NOR and NAND gates.
 
-Flash memory also requires a controller, whether it is apart of the flash storage itself or a software driver that does the reading and writing from the drive itself. Things like [[SSD]], [[The Thumb Drive|USB sticks]] and [[SD Card|SD cards]] are examples of flash memory and they have their own controller that performs "wear leveling" and error correction.
+Flash memory also requires a controller, whether it is apart of the flash storage itself or a software driver that does the reading and writing from the drive itself. Things like [[SSD]], [[USB Stick|USB sticks]] and [[SD Card|SD cards]] are examples of flash memory and they have their own controller that performs "wear leveling" and error correction.
 
 If your flash memory device has a controller, there's really no benefit to add a software specific flash memory [[File Systems|file system]] as the controller performs this task already.
 
