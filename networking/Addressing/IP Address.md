@@ -4,7 +4,7 @@ tags:
 ---
 # Internet Protocol Address
 
-This is a numeric identifer for computers that want to connect to a network, this is required for a device to communicate on a network.
+This is a numeric identifier for computers that want to connect to a network, this is required for a device to communicate on a network.
 
 There are two versions of IP addresses: [[#IPv4|IPv4]] and [[#IPv6|IPv6]].
 
@@ -50,7 +50,7 @@ The network portion will target devices on a certain network and the host portio
 
 ### Private IP Address
 
-This kind of IP is something that cannot directly access the internet nor is it publically registered ,and this is for good reason. Imagine having a business with 10 computers, you might want 10 public IPs. This isn't a good idea because this could lead to a shortage of addresses.
+This kind of IP is something that cannot directly access the internet nor is it publicly registered, and this is for good reason. Imagine having a business with 10 computers, you might want 10 public IPs. This isn't a good idea because this could lead to a shortage of addresses.
 
 Instead, if you have one public IP and 10 private IPs, this would reduce the amount of IPs used and clean somethings up. Each private IP would get translated into a public IP so that everything works fine and each computer would have access to the internet.
 
