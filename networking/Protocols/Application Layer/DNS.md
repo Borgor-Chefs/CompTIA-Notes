@@ -2,6 +2,7 @@
 tags:
   - networking
   - application_layer
+  - osi
 ---
 # Domain Name System (DNS)
 

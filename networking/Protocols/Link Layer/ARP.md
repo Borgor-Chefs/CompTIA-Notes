@@ -2,6 +2,7 @@
 tags:
   - networking
   - link_layer
+  - osi
 ---
 # Address Resolution Protocol (ARP)
 

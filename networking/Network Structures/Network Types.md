@@ -4,13 +4,13 @@ tags:
 ---
 # Network Types
 
-These are the types of networks that are largely classified by their size and goegraphical distribution.
+These are the types of networks that are largely classified by their size and geographical distribution.
 
 >See more from Wikipedia [here](https://en.wikipedia.org/wiki/Wireless_LAN).
 
 Here are the most common types:
 
-- VPN
+- [[#Virtual Private Network (VPN)|VPN]]
 - [[#Personal Area Network (PAN)|PAN]]
 - [[#Local Area Network (LAN)|LAN]]
 	- [[#Storage Area Network (SAN)|SAN]]

@@ -1,3 +1,11 @@
+---
+tags:
+  - networking
+  - link_layer
+  - session_layer
+  - transport_layer
+  - application_layer
+---
 # OSI (Open Systems Interconnection) Reference Model
 
 >Reference video, [here](https://www.youtube.com/watch?v=owDh6FNJUog&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G&index=2).

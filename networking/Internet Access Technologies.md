@@ -4,8 +4,7 @@ tags:
 ---
 # Internet Access Technologies
 
-These are technologies which allow for access to the internet.
-Here are some types:
+These are technologies which allow for access to the internet. Here are some types:
 
 - [[#Digital Subcriber Line (DSL)|DSL]]
 	- [[#Asymmetric DSL (ADSL)|ADSL]]

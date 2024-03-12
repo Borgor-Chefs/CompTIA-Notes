@@ -4,7 +4,7 @@
 
 Basically, each branch builds upon the last, this branch builds upon `a+`. All of the notes from `a+` are here, mainly for reference and hyperlinks.
 
->Notes are taken from [here](https://www.youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G).
+>The notes for this certification are taken from [here](https://www.youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G).
 
 Here is what each folder contains:
 

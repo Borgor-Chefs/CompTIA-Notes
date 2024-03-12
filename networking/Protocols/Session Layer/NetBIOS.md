@@ -3,6 +3,7 @@ tags:
   - networking
   - protocol
   - session_layer
+  - osi
 ---
 # NetBIOS (Network Basic Input/Ouput System)
 

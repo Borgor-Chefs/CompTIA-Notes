@@ -6,9 +6,9 @@ tags:
 
 There are two ways that a computer can be assigned an [[IP Address|IP address]]:
 
-- dynamically
-- statically
-- self-assigned (APIPA)
+- [[#Dynamic IPs|dynamically]]
+- [[#Static IPs|statically]]
+- [[#Self-Assigned|self-assigned (APIPA)]]
 
 ## Dynamic IPs
 
