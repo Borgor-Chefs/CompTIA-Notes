@@ -2,6 +2,7 @@
 tags:
   - networking
   - osi
+  - routing
 ---
 # Data Communication
 

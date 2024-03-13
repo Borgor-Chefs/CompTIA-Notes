@@ -73,4 +73,4 @@ This is a way of creating or rewriting the file system, this can be good or bad 
 
 >A handy command to format a drive on [[!Operating Systems#Linux|Linux]] is:
 >`dd -if /dev/zero -of /dev/[hard drive]`
->Here, you are echoing zeros into the targeted [[Storage Devices|storage device]].
+>Here, you are echoing zeros into the targeted [[!Storage Devices|storage device]].

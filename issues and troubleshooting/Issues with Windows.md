@@ -42,7 +42,7 @@ Things to check for:
 
 These generally occur when the boot loader is incorrectly configured, generally happens when there are more than one operating system installed.
 
->I've also seen threads where Windows doesn't like sharing the same [[Storage Devices|drive]] with other operating systems.
+>I've also seen threads where Windows doesn't like sharing the same [[!Storage Devices|drive]] with other operating systems.
 
 Here's what you should check:
 

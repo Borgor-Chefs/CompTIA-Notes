@@ -15,7 +15,7 @@ This folder is all about the hardware and components that you will encounter in 
 
 - [[CPU|CPUs]]
 - [[RAM|RAM]]
-- [[Storage Devices|storage]]
+- [[!Storage Devices|storage]]
 - [[Importance of Cooling|cooling options]]
 - [[!Expansion Cards|expansion cards]]
 
