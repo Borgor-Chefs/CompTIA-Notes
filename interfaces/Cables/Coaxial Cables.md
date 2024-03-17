@@ -30,7 +30,7 @@ This type of connector uses coaxial cable to fork data. It's a common type of RF
 
 ![[Pasted image 20220828204317.png]]
 
-A screw on connector used on coaxial cables. Used today primarily by cable providers to attach to cable moderms. This hand tightens by an attached nut.
+A screw on connector used on coaxial cables. Used today primarily by cable providers to attach to [[Modem|cable modems]]. This hand tightens by an attached nut.
 
 ### RCA
 
@@ -50,4 +50,4 @@ These are made for long distances and commonly used for cable television and int
 
 ### RG-59
 
-These are made for sthort distances and generaly used for high definition (HD)/quality (HQ) video.
+These are made for short distances and generally used for high definition (HD)/quality (HQ) video.

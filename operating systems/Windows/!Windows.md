@@ -12,7 +12,6 @@ Note that mainstream support is up until 5 years after release. Windows versions
 
 ## Topics
 
-- [[comptia a+/operating systems/Windows/Tools/Command Line Tools|Windows Commands]]
 - Common Issues
 - [[Control Panel|control panel]]
 - [[Microsoft Management Console|Microsoft management console]]
@@ -20,7 +19,7 @@ Note that mainstream support is up until 5 years after release. Windows versions
 - [[Upgrade Methods|upgrade methods]]
 - [[Windows Editions|windows editions]]
 - tools
-    - [[comptia a+/operating systems/Windows/Tools/Command Line Tools|Command Line Tools]]
+    - [[Windows CMD Commands|Windows Commands]]
     - [[Control Panel]]
     - [[Microsoft Defender AntiVirus]]
     - [[Microsoft Management Console]]

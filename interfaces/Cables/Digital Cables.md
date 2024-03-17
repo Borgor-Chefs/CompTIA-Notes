@@ -35,11 +35,11 @@ This connector resembles the [[#Register Jack 45 (RJ-45) (Ethernet Cable)|RJ-45]
 
 This is the most common networking connector, its most common use is to connect a computer to a [[Network Types#Local Area Network (LAN)|local area network]]. It is used to attach [[Network Interface Card|network interface cards]] to hubs or switches.
 
-This resembles the [[#Register Jack 11 (RJ-11)|RJ-11]] but larger. It also used twisted pair cabling.
+This resembles the [[#Register Jack 11 (RJ-11)|RJ-11]] but larger. It also used [[#Twisted Pair Cables|twisted pair cabling]].
 
 ## Twisted Pair Cables
 
-As far as I can tell, these cables are mainly used for networking. You'd find these (for sure) with [[Ethernet Port|ethernet cables]].
+These are used for networking, primarily in [[Ethernet Port|ethernet cables]].
 
 ### Unshielded Twisted-Pair (UTP) Cable
 
@@ -49,6 +49,6 @@ This is the most common type of cable used today, wires are twisted around each 
 
 ### Shielded Twisted-Pair (STP) Cable
 
-This is basically the exact same as an UTP cable however, there is a layer of metal shielding which surrounds the wires. This shielding adds a later of protection against EM interference.
+This is basically the exact same as an [[#Unshielded Twisted-Pair (UTP) Cable|UTP]] cable however, there is a layer of metal shielding which surrounds the wires. This shielding adds a later of protection against EM interference.
 
 ![[Pasted image 20230322191244.png]]

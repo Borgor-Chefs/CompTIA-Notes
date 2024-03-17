@@ -120,6 +120,8 @@ You can expand the coverage of this network with additional [[Wireless Access Po
 
 ### Virtual LAN (VLAN)
 
+>See more about [[Virtual Networks]].
+
 This is essentially a partitioned network within a [[#Local Area Network (LAN)|LAN]] to separate traffic at the data link layer of the [[OSI Model#Data Link|OSI model]].
 
 ## Campus/Corporate Area Network (CAN)

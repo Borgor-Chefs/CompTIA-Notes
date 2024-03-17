@@ -15,6 +15,7 @@ There are:
 
 - [[Digital Cables|digital cables]] which transmit serial data
 - [[Coaxial Cables|coaxial cables]] which transmit analog data
+    - [[Twinaxial Cable|twinaxial cables]] are like coaxial cables, but instead of one conductor, there are two
 - [[Fiber Optic Cables|fiber optic cables]] which transmit photons as information
 
 There is also:

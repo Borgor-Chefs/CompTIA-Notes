@@ -7,7 +7,7 @@ tags:
 # About Linux
 
 - for features, see [[Linux Features]]
-- for linux command line tools, see [[comptia a+/operating systems/Linux/Tools/Command Line Tools|Command Line Tools]]
+- for Linux command line tools, see [[Linux CMD Commands|Command Line Tools]]
 
 This is *like* Unix, not *is* Unix. There are probably thousands of distributions at this point, most of which are based on a singular architecture/flavor of Linux.
 

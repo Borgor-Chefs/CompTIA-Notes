@@ -4,13 +4,16 @@ tags:
 ---
 # Cable Categories
 
-There are different types of cables with varying speeds and physical properties, namely the tightness of the twists applied to the wires.
+There are different types of **copper** cables with varying speeds and physical properties, namely the tightness of the twists applied to the wires.
 
-|Category|Speed (Mbps)|Notes|
-|-|-|-|
-|3|10||
-|5|100||
-|5e (Enhanced)|1,000|an enhanced verison of category 5|
-|6|1,000|a heavier duty version of category 5e, 10,000 Mbps for cables less than 100m|
-|6a (Augmented)|10,000|Maximum length of 100m|
-|7|10,000|A heavier duty version of 6/6a with added shielding for the wires|
+|Ethernet Standard|Category|Speed (Mbps)|Maximum Supported Distance (meters)|Notes|
+|-|-|-|-|-|
+|?|3|10| |No longer used.|
+|1000BASE-T|5|100|100|No longer used.|
+|1000BASE-T|5e (enhanced)|1,000|100| |
+|10GBASE-T|6|1,000|Unshielded: 55, Shielded: 100| |
+|10GBASE-T|6a (augmented)|10,000|100| |
+|10GBASE-T|7|10,000|100|Shielded cables only.|
+|40GBASE-T|8|10,000|30|Shielded cables only.|
+
+>The 10G and 40G mean "gigabit".

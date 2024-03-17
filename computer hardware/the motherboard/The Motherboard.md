@@ -12,7 +12,7 @@ The main component of the computer where all of the components connect to. Such 
 	- [[Graphics Card]]
 	- [[Network Interface Card]]
 	- [[PCIe|PCIe]] devices
-- [[Interfaces|I/O interfaces]] to connect external devices
+- [[!Interfaces|I/O interfaces]] to connect external devices
 
 Motherboards come in different sizes known as [[Motherboard Form Factors|form factors]]. The most common form factors are;
 
@@ -40,7 +40,7 @@ Chipsets are divided into two components; the [[#North Bridge|north bridge]] and
 
 ### North Bridge
 
-The north bridge connects to the [[CPU|CPU]], [[PCIe|PCIe]]/[[AGP|AGP]] and memory slots via. connectors called [[Interfaces|buses]].
+The north bridge connects to the [[CPU|CPU]], [[PCIe|PCIe]]/[[AGP|AGP]] and memory slots via. connectors called [[!Interfaces|buses]].
 
 The north bridge operates at a higher speed than the south bridge and connects to more important components which need to operate at a higher speed.
 

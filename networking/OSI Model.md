@@ -35,7 +35,7 @@ Here are some things/services/protocols that run on each layer of the model and 
 - 4. [[#Transport Layer|transport]] - [[TCP]] segments, [[UDP]] datagrams
 - 3. [[#network Layer|network]] - [[IP Address|IP addresses]], [[Router|routers]], packets
 - 2. [[#Data Link Layer|data link]] - frames, [[MAC Addresses|MAC addresses]], extended unique identifiers, [[Switch|switches]]
-- 1. [[#Physical Layer|physical]] - [[Cables|cables]], fiber, and the signal itself
+- 1. [[#Physical Layer|physical]] - [[!Cables|cables]], fiber, and the signal itself
 
 >You can remember the OSI model by this mnemonic: "All People Seem To Need Data Processing".
 

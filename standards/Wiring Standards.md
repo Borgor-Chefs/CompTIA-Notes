@@ -2,15 +2,20 @@
 tags:
   - networking
   - standard
+  - cable
 ---
 # Wiring Standards
 
-These are the wiring standards created by TIA/EIA, namely:
+>See more about TIA [here](http://tiaonline.org)
 
-- [[#568a|568a]]
-- [[#568b|568b]]
+These are the wiring standards created by the Telecommunications Industry Association (TIA), namely:
 
-These standards define how the "twisted pair cables" (colored wires) should be connected to an [[Digital Cables#Register Jack 45 (RJ-45) (Ethernet Cable)|RJ-45]] connector. There is no difference in functionality between both standards.
+- [[#T568a|ANSI/TIA-568a]]
+- [[#T568b|ANSI/TIA-568b]]
+
+>The international ISO/IEC 11801 cabling standards define classes of networking standards, not cabling standards which are discussed in this note.
+
+These standards define how the "[[Digital Cables#Twisted Pair Cables|twisted pair cables]]" (colored wires) should be connected to an [[Digital Cables#Register Jack 45 (RJ-45) (Ethernet Cable)|RJ-45]] connector. There is no difference in functionality between both standards.
 
 There are also types of cables which refer to what standard both ends of the wire follow:
 
@@ -21,17 +26,21 @@ There are also types of cables which refer to what standard both ends of the wir
 
 ## Standards
 
-### 568a
+It's important to note that you should never mix both of these standards in one cable, this will lead to much confusion and technical problems.
 
-See below how the wiring should look like for the 568a standard:
+### T568a
 
-![[Pasted image 20230322184356.png]]
+See below how the wiring should look like for the T568a standard:
 
-### 568b
+![[Pasted image 20240317165711.png]]
 
-See below how the wiring should look like for the 568b standard:
+### T568b
 
-![[Pasted image 20230322184414.png]]
+See below how the wiring should look like for the T568b standard:
+
+![[Pasted image 20240317165720.png]]
+
+Many organizations traditionally use this standard for their cabling.
 
 ## Cable Types
 
@@ -47,9 +56,11 @@ This is where each end is wired differently and are used to connect two similar 
 
 ![[Pasted image 20230322184943.png]]
 
+>Cross-over cables are defined in the IEEE 11803 standard and not the 11801 standard.
+
 ### Rollover Cable
 
-This is created when both ends are wired completley opposite of each other. This is used to connect a compueter or a terminal to a router's console port.
+This is created when both ends are wired completely opposite of each other. This is used to connect a compueter or a terminal to a router's console port.
 
 ![[Pasted image 20230322185032.png]]
 
