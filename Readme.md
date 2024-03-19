@@ -12,8 +12,7 @@ Here is what each folder contains:
 - `!Pictures` contains images for the markdown files
 - `cloud/` contains information about cloud technologies, acronyms, features, etc.
 - `computer hardware/` contains information about computer related hardware
-- `devices` contains information about phones, networking equipment (routers, switches, etc.) and printers
-- `devices/` contains information about phones and printers
+- `devices/` contains information about phones, networking equipment (routers, switches, etc.) and printers
 - `hacking/` contains information about attacks, viruses, malware, etc.
 - `interfaces/` contains information about device interfaces, ports and cables
 - `issues and troubleshooting/` contains information about common issues (BSOD, overheating, etc.) and their solutions
@@ -27,6 +26,7 @@ Here is what each folder contains:
 - `security/` contains information about security systems and practices
 - `standards/` contains information about standards like IEEE, wiring standards and protocols
 - `storage devices/` contains information about storage devices
+- `virtualization/` contains information about virtualization topics like Hypervisors and such
 
 >My goal is to continuously expand the information contained within this branch as I progress onto future exams e.g., networking+, security+.
 >Kind of like a taste of future concepts to get you accustomed to thinking in a certain mindset and for my own benefit.

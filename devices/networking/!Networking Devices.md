@@ -16,5 +16,6 @@ This folder contains information about physical devices used for networking. Dev
 - [[Router]]
 - [[Switch]]
 - [[Wireless Access Point]]
+- [[Media Converter]]
 
 Some types of network components use Power over Ethernet (PoE) to supply power to the device. Some devices do not have this feature and they will instead have an interface to receive power.

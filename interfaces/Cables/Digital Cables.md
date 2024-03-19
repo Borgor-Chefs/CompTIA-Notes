@@ -8,14 +8,14 @@ tags:
 These are cables which transmit digital (1 or 0) data.
 
 - connectors
-	- [[#Register Jack 11 (RJ-11)|RJ-11]]
-	- [[#Register Jack 45 (RJ-45) (Ethernet Cable)|RJ-45]]
-	- [[Firewire|Firewire]]
-	- [[USB|USB]]
-	- [[Thunderbolt|Thunderbolt]]
-- [[#Twisted Pair Cables|twisted pair cables]]
-	- [[#Unshielded Twisted-Pair (UTP) Cable|UTP cable]]
-	- [[#Shielded Twisted-Pair (STP) Cable|STP cable]]
+	- [[#Register Jack 11 (RJ-11)]]
+	- [[#Register Jack 45 (RJ-45) (Ethernet Cable)]]
+	- [[Firewire]]
+	- [[USB]]
+	- [[Thunderbolt]]
+- [[#Twisted Pair Cables]]
+	- [[#Unshielded Twisted-Pair (UTP) Cable]]
+	- [[#Shielded Twisted-Pair (STP) Cable]]
 
 >The links for firewire, USB and thunderbolt have their own notes as they are better suited there. They are connectors, the cable medium itself is something almost entirely different.
 

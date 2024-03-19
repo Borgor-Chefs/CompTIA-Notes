@@ -12,7 +12,7 @@ Note that mainstream support is up until 5 years after release. Windows versions
 
 ## Topics
 
-- Common Issues
+- [[Issues with Windows|Common Issues]]
 - [[Control Panel|control panel]]
 - [[Microsoft Management Console|Microsoft management console]]
 - [[Task Manager|task manager]]
