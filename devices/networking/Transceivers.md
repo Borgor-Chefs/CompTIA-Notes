@@ -59,7 +59,7 @@ This is commonly used to provide 1Gbit/s fiber connections, there are also 1Gbit
 
 This is the exact same physical size as regular [[#Small Form-factor Pluggable (SFP)|SFPs]] but are enhanced to increase the throughput, specifically up to speeds of 16Gbit/s.
 
-This is common with [[Cable Categories|10 gigabit Ethernet]].
+This is common with [[Ethernet Standard|10 gigabit Ethernet]].
 
 ### Quad Small Form-factor Pluggable (QSFP)
 

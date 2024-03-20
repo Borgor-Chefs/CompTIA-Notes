@@ -55,4 +55,4 @@ This is just a white/black list for MAC addresses which determines if a device w
 
 This fully exposes a computer to the internet by forwarding all its ports. This is useful for when you're troubleshooting a [[Firewall|firewall]] issue.
 
-A computer in the DMZ **must** be assigned a [[IP Addressing Methods#Static IPs|static IP address]] and not one assigned dynamically via. a [[DHCP]] server.
+A computer in the DMZ **must** be assigned a [[IP Address Assignment#Static IPs|static IP address]] and not one assigned dynamically via. a [[DHCP]] server.

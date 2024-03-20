@@ -4,7 +4,7 @@ tags:
   - standard
   - cable
 ---
-# Wiring Standards
+# Cable Standards
 
 >See more about TIA [here](http://tiaonline.org)
 

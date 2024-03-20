@@ -5,7 +5,7 @@ tags:
 ---
 # Coaxial Cables
 
-These are cables which primarily transmit analog data. Used today primarily by cable providers to provide a computer with a broadband internet connection. Early on iy was used as the backbone for networks.
+These are cables which primarily transmit analog data. Used today primarily by cable providers to provide a computer with a broadband internet connection. Early on it was used as the backbone for networks.
 
 - connectors
 	- [[#Coaxial|Generic Coaxial]]

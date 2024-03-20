@@ -5,11 +5,11 @@ tags:
 ---
 # Digital Cables
 
-These are cables which transmit digital (1 or 0) data.
+These are cables which transmit digital (1 or 0) data and are typically made out of copper.
 
 - connectors
 	- [[#Register Jack 11 (RJ-11)]]
-	- [[#Register Jack 45 (RJ-45) (Ethernet Cable)]]
+	- [[#Register Jack 45 (RJ-45)]]
 	- [[Firewire]]
 	- [[USB]]
 	- [[Thunderbolt]]
@@ -17,7 +17,7 @@ These are cables which transmit digital (1 or 0) data.
 	- [[#Unshielded Twisted-Pair (UTP) Cable]]
 	- [[#Shielded Twisted-Pair (STP) Cable]]
 
->The links for firewire, USB and thunderbolt have their own notes as they are better suited there. They are connectors, the cable medium itself is something almost entirely different.
+>The links for firewire, USB and thunderbolt have their own notes as they are better suited there. They are connectors, the cable medium itself is something entirely different.
 
 ## Connectors
 
@@ -25,7 +25,7 @@ These are cables which transmit digital (1 or 0) data.
 
 ![[Pasted image 20220828203527.png]]
 
-The RJ-11 is a 4-wire telephone jack used for connecting phones to landlines. This type of cable is also used to connect modems on computers. Used to connect computers to [[Network Types#Local Area Network (LAN)|LANs]] through the computer's [[Modem|modem]]. It locks itself in place using a hinged locking tab.
+The RJ-11 is a 4-wire telephone jack used for connecting phones to landlines. This type of cable is also used to connect [[Modem|modems]] to computers. Used to connect computers to [[Network Types#Local Area Network (LAN)|LANs]] through the computer's [[Modem|modem]]. It locks itself in place using a hinged locking tab.
 
 This connector resembles the [[#Register Jack 45 (RJ-45) (Ethernet Cable)|RJ-45]] connector but smaller.
 
@@ -35,7 +35,7 @@ This connector resembles the [[#Register Jack 45 (RJ-45) (Ethernet Cable)|RJ-45]
 
 This is the most common networking connector, its most common use is to connect a computer to a [[Network Types#Local Area Network (LAN)|local area network]]. It is used to attach [[Network Interface Card|network interface cards]] to hubs or switches.
 
-This resembles the [[#Register Jack 11 (RJ-11)|RJ-11]] but larger. It also used [[#Twisted Pair Cables|twisted pair cabling]].
+This resembles the [[#Register Jack 11 (RJ-11)|RJ-11]] but larger.
 
 ## Twisted Pair Cables
 

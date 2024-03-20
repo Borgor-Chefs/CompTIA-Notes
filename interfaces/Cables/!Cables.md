@@ -20,5 +20,5 @@ There are:
 
 There is also:
 
-- the [[Wiring Standards|cable standard]] which dictates how digital cables are supposed to be wired
-- [[Cable Categories|cable categories]] which dictate their speed
+- the [[Cable Standards|cable standard]] which dictates how digital cables are supposed to be wired
+- [[Ethernet Standard|cable categories]] which dictate their speed

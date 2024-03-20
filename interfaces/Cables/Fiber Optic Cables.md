@@ -25,6 +25,11 @@ The cable itself is made up of three parts;
 
 The "ferrule" surrounds the fiber core to protect it from damage and interference.
 
+Other topics:
+
+- [[#Problems with Fiber Optic Cables]]
+- 
+
 ## Cables
 
 - connector ending types
@@ -106,3 +111,17 @@ This is used for short-range communication up to 2km.
 When dealing with light, we must consider and deal with the laws of physics (naturally just like with [[Digital Cables|copper cables]], but now were dealing with different parts of physics).
 
 One of the problems with fiber optics is the "return loss" i.e., how much light is reflected back to the source. This creates an inefficiency.
+
+## Wavelength-Division Multiplexing
+
+![[Pasted image 20240320163929.png]]
+
+This is bidirectional communication over a single strand of fiber. Each wavelength uses its own color. This is basically what broadband is to fiber optics.
+
+There is also:
+
+- Coarse Wavelength-Division Multiplexing
+    - this uses four different wave lengths and uses the [[Ethernet Standard|10GBASE-LX4]] standard and has a maximum throughput of 3.125 Gbit/s
+- Dense Wavelength-Division Multiplexing
+    - this uses a fuck ton of different wave lengths, or "carriers" to transmit data
+    - this has 160 signals and increases the throughput to 1.6 Tbit/s
