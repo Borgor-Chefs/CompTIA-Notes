@@ -11,7 +11,7 @@ This is a numeric identifier for computers that want to connect to a network, th
     - [[#IPv6]]
 - [[#Reserved IP Addresses]]
 - types of IP addresses
-    - [[#Subnet (Mask)]]
+    - [[Subnets|Subnet (Mask)]]
     - [[#Public IP Address]]
     - [[#Private IP Address]]
     - [[#Gateway IP Address]]
@@ -40,35 +40,17 @@ They were wrong, so they invented IPv6 which is a 128-bit hexadecimal address, e
 
 There are $2^{128}$ or 340,282,366,920,938,463,463,374,607,431,768,211,456 possible addresses.
 
-## Reserved IP Addresses
-
-| Name               | IP Address                     | Usages                                                                        |
-| ------------------ | ------------------------------ | ----------------------------------------------------------------------------- |
-| Loopback Address   | 127.0.0.1 to 127.255.255.254   | Basically just for testing the networking connectivity on your local machine. |
-| Reserved Addresses | 240.0.0.1 to 254.255.255.254   | Reserved for "Class E" addresses.                                             |
-| APIPA              | 169.254.0.1 to 169.254.255.254 | Reserved by IETF for APIPA addresses.                                         |
-
 ## Types
 
 There are different types of [[#IPv4|IPv4]] addresses, they are:
 
-- [[#Subnet (Mask)|subnets]]
-- [[#Private IP Address|private IPs]]
+- [[Subnets]]
+- [[#Public IP Address]]
+- [[#Private IP Address]]
+- [[#Gateway IP Address]]
+- [[#Virtual IP Address (VIP)]]
 
-IPv4 addresses have different classifications and ranges for both public and private addresses.
-
-- [[#Public IPv4 Ranges|public]]
-- [[#Private IPv4 Ranges|private]]
-
-### Subnet (Mask)
-
-A subnet is an IPv4 address which dictates what part of the full IPv4 address is for the network and for the host.
-
-![[Pasted image 20230329225554.png]]
-
-Above is how an [[#IPv4|IPv4 address]] is broken down into its two parts: network and host. We use a mask (the network portion of the mask will always be 255) to deduce what part of the IP is for the network and for the host.
-
-The network portion will target devices on a certain network and the host portion will target the actual device.
+IPv4 addresses have different classifications and ranges for both public and private addresses. See [[#Ranges|here]].
 
 ### Public IP Address
 
@@ -92,6 +74,9 @@ Finally, in order for your computer on your local network to actually receive th
 
 This is the IP address of your [[Router]] and it must be on the same [[#Subnet (Mask)|subnet]] as your computer. This is what allows you to communicate outside of your local subnet.
 
+>This is generally either the first possible IP address on your subnet or the last possible IP address.
+>E.g., 10.0.0.1 or 10.255.255.254
+
 ### Virtual IP Address (VIP)
 
 This isn't associated with a [[Network Interface Card|physical network adaptor]] but rather a virtual machine or an internal [[Router]] address.
@@ -100,29 +85,23 @@ This isn't associated with a [[Network Interface Card|physical network adaptor]]
 
 These are the ranges for IPs that ISPs give out to companies/organizations that have a certain number of devices.
 
-### Public IPv4 Ranges
+>Apparently in modern networking, IP classes aren't really adhered to. Each company/network will probably have it's own setup.
 
-Here are some default subnet masks for the various classes of IPv4 addresses:
+| Class | Public IP Range              | Private IP Range               | Subnet Mask   | Number of Networks | Number of hosts per Network |
+| ----- | ---------------------------- | ------------------------------ | ------------- | ------------------ | --------------------------- |
+| A     | 1.0.0.1 to 127.255.255.254   | 10.0.0.0 to 10.255.255.255     | 255.0.0.0     | 126                | 16,777,214                  |
+| B     | 128.0.0.1 to 191.255.255.254 | 172.16.0.0 to 172.31.255.255   | 255.255.0.0   | 16,382             | 65,534                      |
+| C     | 192.0.0.1 to 223.255.255.254 | 192.168.0.0 to 192.168.255.255 | 255.255.255.0 | 2,097,150          | 254                         |
+| D     | 224.0.0.1 to 239.255.255.254 | undefined                      | undefined     | undefined          | undefined                   |
+| E     | 240.0.0.1 to 255.255.255.254 | undefined                      | undefined     | undefined          | undefined                   |
 
-![[Pasted image 20230329225825.png]]
+>Class D IP addresses are reserved for [[Network Broadcasting Methods#Multicast|multicast networking]].
+>Class E IP addresses are reserved.
 
-IP addresses are assigned to organizations and blocks, there are 5 classes of IP addresses but for the A+ exam you'll only need to know three (A, B and C).
+| Name               | IP Address                     | Usages                                                                        |
+| ------------------ | ------------------------------ | ----------------------------------------------------------------------------- |
+| Loopback Address   | 127.0.0.1 to 127.255.255.254   | Basically just for testing the networking connectivity on your local machine. |
+| Reserved Addresses | 240.0.0.1 to 254.255.255.254   | Reserved for "Class E" addresses.                                             |
+| APIPA              | 169.254.0.1 to 169.254.255.254 | Reserved by IETF for APIPA addresses.                                         |
 
-| Class | First Octet Address | Default Subnet Mask | Number of Hosts | Number of Networks | Notes                                                         |
-| ----- | ------------------- | ------------------- | --------------- | ------------------ | ------------------------------------------------------------- |
-| A     | 1-126               | 255.0.0.0           | 16 million      | 126                | Typically given to large organizations                        |
-| B     | 128-191             | 255.255.0.0         | 65 thousand     | 16 thousand        | Typically given to medium sized organizations                 |
-| C     | 192-223             | 255.255.255.0       | 254             | 2 million          | Typically given to small organizations or small home networks |
-| E     | 240-254             | ?                   |                 |                    | Reserved                                                      |
-
->These are from the RFC 1918 standard.
-
-### Private IPv4 Ranges
-
-These are the ranges for private IP addresses:
-
-| Class | Range                       | Subnet Mask                   | Host ID Size |
-| ----- | --------------------------- | ----------------------------- | ------------ |
-| A     | 10.0.0.0-10.255.255.255     | 10.0.0.0/8<br>255.0.0.0       | 24 bits      |
-| B     | 172.16.0.0-172.31.255.255   | 172.16.0.0/12<br>255.240.0.0  | 20 bits      |
-| C     | 192.168.0.0-192.168.255.255 | 192.168.0.0/16<br>255.255.0.0 | 16 bits      |
+>For full list of reserved IP addresses, see [here](https://en.wikipedia.org/wiki/Reserved_IP_addresses).
